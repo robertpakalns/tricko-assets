@@ -1,0 +1,3513 @@
+[
+    {
+        "title": "Clan Rankings & New Skins & Community Skins",
+        "version": "v0.9.2.0",
+        "date": "June 3rd, 2024",
+        "description": "",
+        "list": [
+            {
+                "subtitle": "",
+                "description": [
+                    "Added clan leaderboard based on power, active members, total games won, total kills, and total score",
+                    "Clan leaderboards refresh daily and weekly. There's also an all-time leaderboard",
+                    "Clan power is the sum of the levels of the active members in a clan (played at least one match within the leaderboard time period)",
+                    "When you click on the leaderboard tab, you will randomly navigate to either the clan leaderboards or the CTG leaderboards",
+                    "Added Fade (Dynamic) artifact collection to crates",
+                    "Added new sprays to crates: Ghost, Text - OK (by EDEX), Light bulb (by EDEX), Punching glove",
+                    "Added Burst Shotgun - Comic Poop (by EDEX)",
+                    "Added Burst Shotgun - Frankenstein (by EDEX)",
+                    "Added Magnum Pistol - Tarot (by Ukrainian_sniper)",
+                    "Added Tactical Assault Rifle - Sweet (by Akmi-go)",
+                    "Added Burst Shotgun - Vaporwave (by KillGG)",
+                    "Updated crate rotations",
+                    "Community skins will be added to the game if they: 1. Use original art assets 2. Fit the style of voxiom (cartoon-ish)"
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Bug Fixes & Improvements",
+        "version": "v0.9.1.5",
+        "date": "April 4th, 2024",
+        "description": "",
+        "list": [
+            {
+                "subtitle": "",
+                "description": [
+                    "Fixed chat scrolling",
+                    "Experimental: Fixed IP bans",
+                    "Experimental: Changed new UI's color theme"
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Kill Feed Icons, Better Mobile Control, and various Improvements",
+        "version": "v0.9.1.4",
+        "date": "Mar 19th, 2024",
+        "description": "",
+        "list": [
+            {
+                "subtitle": "",
+                "description": [
+                    "Feature: Added gun kill feed icons",
+                    "Shop: Added neon and stripes skin to Elite Assault Rifle",
+                    "Mobile Control: Added item stack splitting by long-pressing on item slots",
+                    "Mobile Control: Added tooltips display",
+                    "Mobile Control: Simplified item management with drag-and-drop and tap-to-swap ",
+                    "Mobile Control: Improved crafting support",
+                    "Mobile Control: Made guns automatically aim when you shoot",
+                    "Mobile Control: Added full-screen support",
+                    "Mobile Control: Made workstation recipes tab scrollable",
+                    "Mobile Control: Fixed shovels sometimes stuck on mining",
+                    "Mobile Control: Changed chat and battle royale stats layout so they don't block the virtual joystick",
+                    "Bug Fix: Fixed chat scrolling",
+                    "Bug Fix: Hopefully fixed a bug causing item switching to be unreliable",
+                    "Battle Royale: Increased guns spawn rate in chests again. They are back to what they were before the nerf",
+                    "Shop: Updated crate contents",
+                    "Market: Extended item listing period from 7 days to 14 days",
+                    "Experimental: IP bans",
+                    "Experimental: Testing a new user interface (currently accessible only to developers)"
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Mobile Control, Dynamic Skins, and Improvements",
+        "version": "v0.9.1.3",
+        "date": "Feb 12th, 2024",
+        "description": "",
+        "list": [
+            {
+                "subtitle": "",
+                "description": [
+                    "Experimental: Added mobile controls",
+                    "Fixed account item buttons on loadout/market page",
+                    "Made Vector Space skins dynamic and animated, the animation direction and speed depends on the seed of each gun",
+                    "Updated crate contents",
+                    "View distance can be adjusted in settings. Lowering view distance greatly improves FPS but puts you at a disadvantage, as others can see you before you can see them. ",
+                    "In Capture the Gems, fixed an issue where gems are permanently destroyed in lava. They will properly respawn now.",
+                    "Fixed spawn blocking in survival",
+                    "Reduced floating block physics range",
+                    "Limited maximum fluid block updates to 1000 per tick",
+                    "Increased gun drop rate in Battle Royale",
+                    "Slightly reduced Heavy Sniper Rifle's damage",
+                    "Removed level requirement for Survival",
+                    "Fixed player report menu incorrectly including clan tag as part of the player name"
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Anti Block Xray and Bug Fixes",
+        "version": "v0.9.1.2",
+        "date": "Jan 14th, 2024",
+        "description": "",
+        "list": [
+            {
+                "subtitle": "",
+                "description": [
+                    "Experimental: Added anti block xray to survival. Let me know if you encounter any issues!",
+                    "Fixed item merge animation bug",
+                    "Fixed \"Find a new game\" button"
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Bug Fixes",
+        "version": "v0.9.1.1",
+        "date": "Jan 12th, 2024",
+        "description": "",
+        "list": [
+            {
+                "subtitle": "",
+                "description": [
+                    "Fixed missing map name in battle royale match history",
+                    "Added crafting recipe for making wood out of inferno log",
+                    "Added crafting recipe for making inferno bricks out of inferno rocks",
+                    "Reverted to the old auto-step physics; the new one made building stairs too difficult"
+                ]
+            }
+        ]
+    },
+    {
+        "title": "New Maps, VIP, and Improvements",
+        "version": "v0.9.1",
+        "date": "Jan 11th, 2024",
+        "description": "",
+        "list": [
+            {
+                "subtitle": "Battle Royale",
+                "description": [
+                    "Added classic BR map: Lost Temple. It's randomly generated!",
+                    "The previous BR map is named as \"Castaway\".",
+                    "Added map name in battle royale match stats",
+                    "Decreased spawning rate of guns in chests to make the game more interesting"
+                ]
+            },
+            {
+                "subtitle": "Capture The Gems",
+                "description": [
+                    "Added new CTG map: Inferno - Watch out and don't fall into lava!",
+                    "Added Lava, Inferno Rock, and Inferno Bricks",
+                    "Added Inferno Logs and Inferno Leaves",
+                    "Cleared water and lava near and inside team castles"
+                ]
+            },
+            {
+                "subtitle": "Improvements & Bug Fixes",
+                "description": [
+                    "Server and client desyncs are handled more smoothly",
+                    "Fixed an issue where digging down causes small teleportation due to lag",
+                    "Added an animation for item merging",
+                    "Improved auto-step: Stepping up a block and vaulting should feel much more seamless",
+                    "Removed Christmas decorations",
+                    "Removed limited time Christmas cozy and frosty sets from crates",
+                    "Updated crate contents",
+                    "Fixed Heavy Sniper Rifle's Vintage Blossom skin. Variant B was misclassified as variant C due to a bug.",
+                    "Updated YouTube Content Creator list",
+                    "Fixed swimming sfx not playing when under water / lava",
+                    "Fixed fluid transparency render order",
+                    "Fixed Elite Assault Rifle's visual glitch causing the the gun's aim down sight to appear not as accurate"
+                ]
+            },
+            {
+                "subtitle": "Shop",
+                "description": [
+                    "Added a special VIP rank to the shop - Check the shop for more details!",
+                    "Fixed an issue where in some cases interstitial ads still show up for players who have purchased gems",
+                    "Added an upgrade button in the loadout station. You can watch an ad to boost the loadout station's items to Uncommon.",
+                    "Players who have already purchased gems before this update will continue to enjoy an ad-free experience. However, for new players, buying gems will no longer remove ads in-game. Purchasing the VIP rank will be the only way to remove ads going forward."
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Bug Fixes",
+        "version": "v0.9.0.1",
+        "date": "Dec 11th, 2023",
+        "description": "",
+        "list": [
+            {
+                "subtitle": "",
+                "description": [
+                    "Fixed a typo in Tactical Assault Rifle's name",
+                    "Fixed Elite Assault Rifle's magazine size",
+                    "Fixed Elite Assault Rifle's crouching ADS spread",
+                    "Added a fix for mouse teleportation bug and improved mouse input precision"
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Elite Assault Rifle & Christmas Update",
+        "version": "v0.9",
+        "date": "Dec 8th, 2023",
+        "description": "",
+        "list": [
+            {
+                "subtitle": "",
+                "description": [
+                    "New gun: Elite Assault Rifle - It has powerful shots but slow firing rate",
+                    "Added Christmas limited edition skins (Cozy and Frosty set)",
+                    "Added snowing effects to the home page",
+                    "New crates rotation",
+                    "Anti-cheat update",
+                    "Banned players can no longer use the market",
+                    "Increased market listing fee to 15%",
+                    "To prevent market abuse, each item can only be listed for 7 days instead of permanently"
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Improvements",
+        "version": "v0.8.4",
+        "date": "July 27th, 2023",
+        "description": "",
+        "list": [
+            {
+                "subtitle": "",
+                "description": [
+                    "Anti-cheat update",
+                    "New crates rotation"
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Improvements",
+        "version": "v0.8.3",
+        "date": "September 1st, 2022",
+        "description": "",
+        "list": [
+            {
+                "subtitle": "",
+                "description": [
+                    "Increased to Capture The Gems AFK Kicker timer to 3 minutes",
+                    "Fixed pull-back teleportation glitch due to long internet freezes"
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Improvements",
+        "version": "v0.8.2",
+        "date": "August 29th, 2022",
+        "description": "",
+        "list": [
+            {
+                "subtitle": "",
+                "description": [
+                    "Patched speed hacks",
+                    "Improved hitbox and lag compensation so that getting hit behind walls should occur less frequently",
+                    "If you have a score of 0 at the end of a CTG game, you no longer receive 100 score for winning",
+                    "Added AFK Kicker to Capture The Gems"
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Balance Update and Bug Fixes",
+        "version": "v0.8.1",
+        "date": "August 26th, 2022",
+        "description": "",
+        "list": [
+            {
+                "subtitle": "Balance Update",
+                "description": [
+                    "Decreased Light Submachine Gun's damage by 3",
+                    "Increased Surge Assault Rifle's damage by 2",
+                    "Increased Surge Assault Rifle's fire rate by 0.1 seconds",
+                    "Decreased Surge Assault Rifle's reload time by 0.1 seconds",
+                    "Removed flowing water physics and brought back infinite water physics to reduce lag",
+                    "New covert skin rotations"
+                ]
+            },
+            {
+                "subtitle": "Bug Fixes",
+                "description": [
+                    "Fixed a spawn blocking exploit causing servers to freeze"
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Custom Servers",
+        "version": "v0.8",
+        "date": "June 29th, 2022",
+        "description": "",
+        "list": [
+            {
+                "subtitle": "Custom Servers",
+                "description": [
+                    "Custom servers are now in alpha test for level 60+. This requirement will be decreased gradually.",
+                    "The server creator can remove players from their custom server with /remove &lt;player_name&gt;",
+                    "The server creator can deny players from entering their custom server with /deny &lt;player_name&gt;",
+                    "The server creator can undeny players from entering their custom server with /undeny &lt;player_name&gt;",
+                    "The server creator can change the sky color with /setskycolor &lt;color_hexcode&gt;",
+                    "The server creator can change the gravity with /setgravity &lt;gravity&gt;",
+                    "The server creator can change the fall damage multiplier with /setfalldamagemultiplier &lt;fall_damage_multiplier&gt;",
+                    "The server creator can change the weapon damage multiplier with /setweapondamagemultiplier &lt;weapon_damage_multiplier&gt;",
+                    "The server creator can shutdown the server with /shutdown",
+                    "More customizations, map saving, and clan servers will come in future updates",
+                    "Custom servers shut down after 10 minutes of inactivity (no players online) or after 24 hours",
+                    "No XP is earned on custom servers",
+                    "Each eligible player may only have 1 custom server running at the same time"
+                ]
+            },
+            {
+                "subtitle": "Shop",
+                "description": [
+                    "Added 17 new sprays: Squirrel, Panda, Duck, Silly Face, Angry Face, Surprised Face, Crown, Text - Yep, Text - Nope, Text - Haha, Watermelon, Lemon, Pillow, Thumbs Up, Thumbs Down, Question Mark, and Exclamation Mark",
+                    "Added 3 new skins: Metallic, Terracotta, and Vintage Blossom (5 variants)",
+                    "Removed various skins in the crates to make the rest of the skins easier to obtain. Skins in crates will be on rotation."
+                ]
+            },
+            {
+                "subtitle": "Bug Fixes",
+                "description": [
+                    "Improved anti-cheat",
+                    "Removed water buckets and fixed various water related bugs that caused lag"
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Small Improvements",
+        "version": "v0.7.0.1",
+        "date": "",
+        "description": "",
+        "list": [
+            {
+                "subtitle": "Battle Royale",
+                "description": [
+                    "The toxic fog now closes all the way",
+                    "Added a cap to survival xp per game",
+                    "Reduced max players per game to 50"
+                ]
+            },
+            {
+                "subtitle": "Bug Fixes",
+                "description": [
+                    "Fixed sprays turning blue when far away"
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Clans, Sprays, and Skins",
+        "version": "v0.7.0",
+        "date": "",
+        "description": "",
+        "list": [
+            {
+                "subtitle": "Sprays",
+                "description": [
+                    "Added 19 sprays obtainable from crates!"
+                ]
+            },
+            {
+                "subtitle": "Skins",
+                "description": [
+                    "Added new magnificent collection: Neon"
+                ]
+            },
+            {
+                "subtitle": "Clans (Phase 1)",
+                "description": [
+                    "Phase 1/3 of clans is here! Clan creation and management is now available",
+                    "If you are level 20 or above, you can create a clan with 1000 vox gems",
+                    "Each clan can have up to 50 players",
+                    "There are 4 roles within a clan, members, soldiers, officers, and commander",
+                    "Soldiers can contribute scores in clan wars, officers can promote/demote members/soldiers, and the commander is the creator of a clan",
+                    "The minimum level to join a clan is level 10. However, clan commanders can choose to increase their clan's level requirement",
+                    "There are 3 recruitment modes available for each clan: open, accepting applications, and invite only",
+                    "If a clan is open, it is available to anyone who meets the requirement",
+                    "If a clan is accepting applications, anyone who meets the requirement can apply, but the request must be approved by the commander",
+                    "If a clan is invite only, players can only be invited to the clan by the commander",
+                    "Clan tags are 2-4 character tags visible beside your name in game",
+                    "Please report any bugs as soon as possible so we can get them fixed! Assemble your clans and get ready for clan wars in phase 2 :)"
+                ]
+            }
+        ]
+    },
+    {
+        "title": "New Skins",
+        "version": "v0.6.9.2",
+        "date": "",
+        "description": "",
+        "list": [
+            {
+                "subtitle": "New Skins",
+                "description": [
+                    "Added new magnificent skin - Light Submachine Gun - Blueprint",
+                    "Added new magnificent skin - Burst Shotgun - Comic Pop (4 variants)",
+                    "Added new covert skin - Light Sniper Rifle - Vaporwave"
+                ]
+            }
+        ]
+    },
+    {
+        "title": "New Skins",
+        "version": "v0.6.9.1",
+        "date": "",
+        "description": "",
+        "list": [
+            {
+                "subtitle": "New Skins",
+                "description": [
+                    "Added new artifact skin - Heavy Sniper Rifle - Invictus",
+                    "Added new magnificent skin - Surge Assault Rifle - Caution",
+                    "Added new magnificent skin - Strike Pistol - Circuits",
+                    "Added new precious skin collection - Safari",
+                    "We will be hosting some skin giveaways in Discord! Join to participate!"
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Friends, Trophies, and Skins",
+        "version": "v0.6.9",
+        "date": "",
+        "description": "",
+        "list": [
+            {
+                "subtitle": "Friends",
+                "description": [
+                    "Friend system is live for players level 5 and above!",
+                    "You may send a friend request to any player. If the player accepts your request, the friendship is formed!",
+                    "You may have up to 100 friends",
+                    "You will be able to see which servers your friends are playing on (Survival and Capture the Gems only)"
+                ]
+            },
+            {
+                "subtitle": "Trophies",
+                "description": [
+                    "People who are on 1st-3rd place of the score-based leaderboards will have a trophy beside their names in chat",
+                    "If you are on multiple leaderboards, multiple trophies will be shown"
+                ]
+            },
+            {
+                "subtitle": "Skins and Crates",
+                "description": [
+                    "Temporarily reduced ultimate crate to 300 vox gems!",
+                    "Added new extraordinary collection - Stripes",
+                    "Added new covert skin - Reaper",
+                    "Added new artifact skin - Hokusai",
+                    "Vaulted all of the vector space skins except for heavy sniper rifle",
+                    "Improved weapon model lighting"
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Buckets and Market Update",
+        "version": "v0.6.8.1",
+        "date": "",
+        "description": "",
+        "list": [
+            {
+                "subtitle": "Buckets and Water",
+                "description": [
+                    "Buckets are now craftable in survival (50 iron)",
+                    "Water no longer floats in air. A water source block drops if there is no support under it."
+                ]
+            },
+            {
+                "subtitle": "Player Market",
+                "description": [
+                    "Various price history chart improvements",
+                    "Market listing fee is increased to combat abuse",
+                    "Increased market listing fee to 10% and minimum fee to 1 vox gems"
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Market Update",
+        "version": "v0.6.8",
+        "date": "",
+        "description": "",
+        "list": [
+            {
+                "subtitle": "Player Market",
+                "description": [
+                    "Player markets are now open for players level 15 and above!",
+                    "You may list up to 5 weapons at the same time",
+                    "A 5% non-refundable listing fee is charged for each listed weapon",
+                    "A detailed price history is also available to view for each item type"
+                ]
+            },
+            {
+                "subtitle": "Settings",
+                "description": [
+                    "Add 2 new settings to help reduce lag",
+                    "Show bullet tracers - whether bullet tracers should be visible",
+                    "Show ammo shells when firing - whether ammo shells should be visible when firing a weapon"
+                ]
+            },
+            {
+                "subtitle": "News",
+                "description": [
+                    "Clans and Friends will be coming very soon. Stay tuned!"
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Shop Update",
+        "version": "v0.6.7",
+        "date": "",
+        "description": "",
+        "list": [
+            {
+                "subtitle": "New Skins and Crates",
+                "description": [
+                    "Renamed Crate A to Advanced Crate; Removed covert items from Advanced Crates",
+                    "Renamed Crate B to Basic Crate",
+                    "The ultimate crate which features exceedingly rare items is added to the shop",
+                    "A new skin rarity: Artifact is added to the game",
+                    "7 new skin collections are added to the game: Vector Space, Hallucify, Ancient Power, Psychic Twist, Cotton Mist, Parchment, and Canvas",
+                    "Shovel handle now uses smooth lighting"
+                ]
+            },
+            {
+                "subtitle": "Shop Changes",
+                "description": [
+                    "With the introduction of the new ultimate crate, vox gem prices are reduced. Players who purchased vox gems before this update will be compensated accordingly. (For example, if you bought 150 vox gems, 450 more vox gems should be credited to your account already)",
+                    "New vox gem prices:",
+                    "$0.99 -&gt; 300 vox gems",
+                    "$1.89 -&gt; 600 vox gems",
+                    "$7.99 -&gt; 2700 vox gems",
+                    "$14.99 -&gt; 5700 vox gems",
+                    "$34.99 -&gt; 17000 vox gems",
+                    "$99.99 -&gt; 60000 vox gems",
+                    "New weapon quick sell prices:",
+                    "Noteworthy -&gt; 1 Vox Gem",
+                    "Precious -&gt; 5 Vox Gems",
+                    "Magnificent -&gt; 10 Vox Gems",
+                    "Extraordinary -&gt; 100 Vox Gems",
+                    "Covert -&gt; 500 Vox Gems",
+                    "Artifact -&gt; 1000 Vox Gems",
+                    "Weapon trading and player market is coming very soon!"
+                ]
+            },
+            {
+                "subtitle": "Bug Fixes",
+                "description": [
+                    "More weapon shooting and texture performance optimzations"
+                ]
+            }
+        ]
+    },
+    {
+        "title": "HD Minimap",
+        "version": "v0.6.6.2",
+        "date": "",
+        "description": "",
+        "list": [
+            {
+                "subtitle": "HD Minimap",
+                "description": [
+                    "Minimap is no longer blurry",
+                    "Minimap shows terrain height changes",
+                    "Minimap shows shallow underwater terrain"
+                ]
+            },
+            {
+                "subtitle": "Bug Fixes",
+                "description": [
+                    "More weapon shooting and texture performance optimzations"
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Bug Fixes",
+        "version": "v0.6.6.1",
+        "date": "",
+        "description": "",
+        "list": [
+            {
+                "subtitle": "Bug Fixes",
+                "description": [
+                    "Fixed bombs growing infinitely large during explosion animation",
+                    "Fixed bombs breaking bedrocks only on the client side",
+                    "Weapon shooting performance optimzations"
+                ]
+            }
+        ]
+    },
+    {
+        "title": "New Capture The Gems Map",
+        "version": "v0.6.6",
+        "date": "",
+        "description": "",
+        "list": [
+            {
+                "subtitle": "Capture The Gems",
+                "description": [
+                    "New CTG Map - Bulwark"
+                ]
+            },
+            {
+                "subtitle": "Bug Fixes",
+                "description": [
+                    "Fixed block cracks not appearing in some rare situations",
+                    "Fixed sprays not rendering in Voxiom Studio",
+                    "Fixed sprays sometimes rendering on top of water",
+                    "Patched an exploit which allows users to connect to any ip (Thanks Raphaël LAURET!)"
+                ]
+            },
+            {
+                "subtitle": "Balance",
+                "description": [
+                    "Increased bomb explosion's block damage",
+                    "LAST REMINDER! We will be adjusting the selling price of skins in the next update!",
+                    "Noteworthy -&gt; 1 Vox Gem",
+                    "Precious -&gt; 5 Vox Gems",
+                    "Magnificent -&gt; 10 Vox Gems",
+                    "Extraordinary -&gt; 100 Vox Gem",
+                    "Covert -&gt; 500 Vox Gems"
+                ]
+            }
+        ]
+    },
+    {
+        "title": "New Gun Models",
+        "version": "v0.6.5",
+        "date": "",
+        "description": "",
+        "list": [
+            {
+                "subtitle": "Visual Improvements",
+                "description": [
+                    "Gun models are improved for the following weapons:",
+                    "Heavy Sniper Rifle",
+                    "Light Sniper Rifle"
+                ]
+            },
+            {
+                "subtitle": "Bug Fixes",
+                "description": [
+                    "Aim down sights animation are now smoother and quicker",
+                    "Fixed some UI rendering on top of sniper scopes"
+                ]
+            },
+            {
+                "subtitle": "Settings",
+                "description": [
+                    "Increased upper bound of ads sensitivity multiplier",
+                    "Increased upper bound of scope sensitivity multiplier",
+                    "Various settings are properly clamped between their lower and upper bounds"
+                ]
+            }
+        ]
+    },
+    {
+        "title": "New Gun Models",
+        "version": "v0.6.4",
+        "date": "",
+        "description": "",
+        "list": [
+            {
+                "subtitle": "Visual Improvements",
+                "description": [
+                    "Gun models are improved for the following weapons:",
+                    "Combat Assault Rifle",
+                    "Tactical Assault Rifle",
+                    "Surge Assault Rifle",
+                    "Light Submachine Gun",
+                    "Compact Submachine Gun",
+                    "Burst ShotGun",
+                    "Strike Pistol",
+                    "Magnum Pistol"
+                ]
+            },
+            {
+                "subtitle": "Settings",
+                "description": [
+                    "New crosshair style: None (hides the crosshair)",
+                    "New setting - Show Crosshair When ADS",
+                    "New setting - Hide gun/hand model When ADS",
+                    "New setting - General Field of View",
+                    "New setting - First Person Model Field of View",
+                    "New setting - Ads FOV Multiplier",
+                    "New setting - Running FOV Multiplier"
+                ]
+            },
+            {
+                "subtitle": "Miscellaneous",
+                "description": [
+                    "The crosshair is now hidden when aiming down sights (changeable in settings)",
+                    "Running now increases your FOV",
+                    "Slightly decreased Aiming down sights FOV",
+                    "When aiming down sights, the weapon model becomes more stable"
+                ]
+            },
+            {
+                "subtitle": "Balance",
+                "description": [
+                    "Reduced bomb's crafting cost",
+                    "To prepare for weapon trading and market, we will be adjusting the selling price in a future update",
+                    "Noteworthy -&gt; 1 Vox Gem",
+                    "Precious -&gt; 5 Vox Gems",
+                    "Magnificent -&gt; 10 Vox Gems",
+                    "Extraordinary -&gt; 100 Vox Gem",
+                    "Covert -&gt; 500 Vox Gems"
+                ]
+            },
+            {
+                "subtitle": "Sprays",
+                "description": [
+                    "More spray types will be obtainable soon!"
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Engine Upgrades",
+        "version": "v0.6.3",
+        "date": "",
+        "description": "",
+        "list": [
+            {
+                "subtitle": "",
+                "description": [
+                    "Various engine upgrades and improvements",
+                    "Added water animation"
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Bug Fixes",
+        "version": "v0.6.2",
+        "date": "",
+        "description": "",
+        "list": [
+            {
+                "subtitle": "",
+                "description": [
+                    "Fixed a glitch where you are stuck with a muzzle flash and you can rotate 360 degrees vertically",
+                    "Fixed a glitch where you can place floors in mid-air",
+                    "Fixed a glitch where guns disappear when reloading as soon as you pick up items",
+                    "Patched some hacks"
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Miscellaneous",
+        "version": "v0.6.1",
+        "date": "",
+        "description": "",
+        "list": [
+            {
+                "subtitle": "",
+                "description": [
+                    "Multiple server performance improvements",
+                    "Improved chat spam / profanity filter"
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Miscellaneous",
+        "version": "v0.6.0",
+        "date": "",
+        "description": "",
+        "list": [
+            {
+                "subtitle": "Water",
+                "description": [
+                    "Added buckets: empty bucket and water bucket. Buckets are used to move water sources around",
+                    "In survival, buckets can be found in dungeons",
+                    "Bug Fix: Water no longer expands infinitely in some edge cases",
+                    "Bug Fix: River water now automatically fixes itself",
+                    "Bug Fix: Water source no longer gets deleted by flowing water",
+                    "Bug Fix: Water source block rendering height issue",
+                    "Bug Fix: Water source block flows down properly"
+                ]
+            },
+            {
+                "subtitle": "Miscellaneous",
+                "description": [
+                    "Name change service is added in the shop. The service can be requested once every 3 days",
+                    "Logged in players are now required to have a name before joining a server",
+                    "Players without names no longer show up on the leaderboard",
+                    "Various engine improvements"
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Bug Fixes",
+        "version": "v0.5.9.1",
+        "date": "",
+        "description": "",
+        "list": [
+            {
+                "subtitle": "Survival",
+                "description": [
+                    "Dungeons are now filled with dirt to prevent x-ray due to lag"
+                ]
+            },
+            {
+                "subtitle": "Bug Fixes",
+                "description": [
+                    "Fixed a game crash due to Google Translate"
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Fluid Physics",
+        "version": "v0.5.9",
+        "date": "",
+        "description": "",
+        "list": [
+            {
+                "subtitle": "Fluid Physics",
+                "description": [
+                    "Water no longer creates infinite water sources",
+                    "Better visuals and lava might come soon",
+                    "A way to move water might come soon"
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Bug Fixes",
+        "version": "v0.5.8.3",
+        "date": "",
+        "description": "",
+        "list": [
+            {
+                "subtitle": "Visuals",
+                "description": [
+                    "Fixed water transparency issues",
+                    "Fixed block placement guides transparency issues"
+                ]
+            },
+            {
+                "subtitle": "Bug Fixes",
+                "description": [
+                    "Fixed a game crashing exploit",
+                    "Fixed several game exploits",
+                    "Special thanks to Raphaël LAURET for finding some major exploits!"
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Bug Fixes",
+        "version": "v0.5.8.2",
+        "date": "",
+        "description": "",
+        "list": [
+            {
+                "subtitle": "Bomb",
+                "description": [
+                    "Bombs can no longer damage teammates in Capture The Gems",
+                    "Suicides caused by bombs no longer reward you points",
+                    "Other legitimate bomb kills count towards your points"
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Balance",
+        "version": "v0.5.8.1",
+        "date": "",
+        "description": "",
+        "list": [
+            {
+                "subtitle": "Bomb",
+                "description": [
+                    "Slightly increased explosion radius of bombs",
+                    "Slightly increased player damage of bombs",
+                    "Bomb damage and knockback now decreases as distance increases",
+                    "Bombs are now craftable with 20 sand, 20 emeralds, and 10 sulfur",
+                    "Slightly increased the spawn rate of bombs in battle royale"
+                ]
+            },
+            {
+                "subtitle": "Bug Fixes",
+                "description": [
+                    "Fixed gem spawn time in capture the gems"
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Bombs and Explosions",
+        "version": "v0.5.8",
+        "date": "",
+        "description": "",
+        "list": [
+            {
+                "subtitle": "Bomb",
+                "description": [
+                    "Added new Bomb block that can be found in chests (only in battle royale and survival)",
+                    "Bomb blocks can be harvested with shovels/hands",
+                    "Bomb blocks can be detonated if shot with guns",
+                    "Bomb blocks do not damage blocks if detonated in water",
+                    "On detonation, players get damaged, inactive bomb blocks get activated, and active bomb blocks get pushed away"
+                ]
+            },
+            {
+                "subtitle": "Bug Fixes",
+                "description": [
+                    "Fixed xray near chunk/world edge",
+                    "Fixed being able to dupe items on respawn by dropping items in survival",
+                    "Fixed being able to dupe items on respawn using chests in survival",
+                    "Fixed being able to shift click gems into a chest in capture the gems",
+                    "Fixed floating blocks physics dropping too many items"
+                ]
+            },
+            {
+                "subtitle": "Miscellaneous",
+                "description": [
+                    "Changed default inventory helper key back to Shift"
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Balance Update",
+        "version": "v0.5.7.2",
+        "date": "",
+        "description": "",
+        "list": [
+            {
+                "subtitle": "Balance",
+                "description": [
+                    "Decreased range of light submachine guns and compact submachine guns",
+                    "Increased range of burst shotguns"
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Hot Fix",
+        "version": "v0.5.7.1",
+        "date": "",
+        "description": "",
+        "list": [
+            {
+                "subtitle": "",
+                "description": [
+                    "Fixed account loadout sell dialog error caused by Google Translate"
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Miscellaneous",
+        "version": "v0.5.7",
+        "date": "",
+        "description": "",
+        "list": [
+            {
+                "subtitle": "Inventory",
+                "description": [
+                    "You can now move while managing inventory",
+                    "You lose access to the tool if you move too far away from a work station/loadout station/chest",
+                    "Default inventory helper key is changed to Alt"
+                ]
+            },
+            {
+                "subtitle": "Player Reports",
+                "description": [
+                    "You can now report players violating chat rules from the player menu (defaults to P)",
+                    "Player reports are limited to level 5 and above"
+                ]
+            },
+            {
+                "subtitle": "Balance",
+                "description": [
+                    "Fixed light submachine gun damage falloff (reduces to 1 when &gt;= 30 units)",
+                    "Fixed compact submachine gun damage falloff (reduces to 1 when &gt;= 30 units)"
+                ]
+            },
+            {
+                "subtitle": "Building",
+                "description": [
+                    "Added new building mode: 3x3 floor",
+                    "The floor building mode snaps to edges, making construction of bridges easier",
+                    "Building mode no longer switches if you hold right click while switching to blocks"
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Experimental Modes",
+        "version": "v0.5.6",
+        "date": "",
+        "description": "",
+        "list": [
+            {
+                "subtitle": "Experimental Modes",
+                "description": [
+                    "Experimental modes are test modes that might be removed or added to the main game in the future",
+                    "Free for all is back as the first experimental mode",
+                    "Stats are not tracked in Free For All, but you can still earn XP and vox gems!"
+                ]
+            },
+            {
+                "subtitle": "Featured Creators",
+                "description": [
+                    "Added a featured youtuber section on the home page to show a random youtuber",
+                    "Please contact ThriveR on discord if you want to have your channel added"
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Introducing Vox Gem Shop",
+        "version": "v0.5.5",
+        "date": "",
+        "description": "",
+        "list": [
+            {
+                "subtitle": "Vox Gems Shop",
+                "description": [
+                    "The Vox Gems shop is finally open!",
+                    "The Vox Gems shop is a great way to support the development of the game and quickly obtain Vox Gems",
+                    "Any purchase in the Vox Gems shop will remove all ads in-game!"
+                ]
+            },
+            {
+                "subtitle": "Balance",
+                "description": [
+                    "Relaxed time requirement of multi-kills to 6 seconds (was 3 seconds)"
+                ]
+            },
+            {
+                "subtitle": "Bug Fixes",
+                "description": [
+                    "Fixed skins not updating for other players when switching between items of the same type"
+                ]
+            }
+        ]
+    },
+    {
+        "title": "MultiKills",
+        "version": "v0.5.4",
+        "date": "",
+        "description": "",
+        "list": [
+            {
+                "subtitle": "New medals: Multi-kills",
+                "description": [
+                    "Additional scores are awarded for kills achieved in quick succession (double kill, triple kill, etc...)"
+                ]
+            },
+            {
+                "subtitle": "Quality of Life",
+                "description": [
+                    "Slightly reduced height of water for better visuals"
+                ]
+            },
+            {
+                "subtitle": "Bug Fixes",
+                "description": [
+                    "Fixed a bug that caused shovels to lose their skins after upgrading",
+                    "Improved FPS"
+                ]
+            }
+        ]
+    },
+    {
+        "title": "New CTG Map",
+        "version": "v0.5.3",
+        "date": "",
+        "description": "",
+        "list": [
+            {
+                "subtitle": "Capture The Gems",
+                "description": [
+                    "A new map is now in rotation in Capture The Gems",
+                    "The name of the new map is Oasis",
+                    "The new map features a central island with buildings and treasures",
+                    "The name of the old map is Riverdale",
+                    "The name of map played in a CTG match is shown on the match stats page"
+                ]
+            },
+            {
+                "subtitle": "Balance",
+                "description": [
+                    "Reduced cactus damage"
+                ]
+            },
+            {
+                "subtitle": "Bug Fixes",
+                "description": [
+                    "Fixed item usage and block placement text getting stuck on respawn in some cases"
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Miscellaneous",
+        "version": "v0.5.2",
+        "date": "",
+        "description": "",
+        "list": [
+            {
+                "subtitle": "Weapon Skins",
+                "description": [
+                    "Added Covert items to Crate A",
+                    "Covert items are shovel skins, currently there are 4 shovel skins: fade, volcanic, pearl marble, and blaze",
+                    "Added various new skins"
+                ]
+            },
+            {
+                "subtitle": "Shop",
+                "description": [
+                    "You can now view the potential items in a crate"
+                ]
+            },
+            {
+                "subtitle": "Account Inventory",
+                "description": [
+                    "Added a button to quickly unequip a weapon skin (equip default)",
+                    "Added option to recycle items back to the game"
+                ]
+            },
+            {
+                "subtitle": "Survival",
+                "description": [
+                    "Added mythic shovels and mythic weapons. They have a chance to randomly spawn as dungeon loot",
+                    "Mythic shovels are able to destroy normally unbreakable blocks such as bedrock",
+                    "Increased dungeon spawn rate (~x10)",
+                    "Added cactus blocks to dungeon loot table"
+                ]
+            },
+            {
+                "subtitle": "Bug Fixes",
+                "description": [
+                    "Fixed inventory getting stuck on respawn in some cases",
+                    "Fixed \"unlock at level 5\" missing on survival play button"
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Miscellaneous",
+        "version": "v0.5.1",
+        "date": "",
+        "description": "",
+        "list": [
+            {
+                "subtitle": "Bug Fixes",
+                "description": [
+                    "Fixed weapon skins not applied to weapons dropped by broken chests"
+                ]
+            },
+            {
+                "subtitle": "Account Loadouts",
+                "description": [
+                    "Added filters and pagination to account loadouts"
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Introducing Weapon Skins and Vox Gems!",
+        "version": "v0.5.0",
+        "date": "",
+        "description": "",
+        "list": [
+            {
+                "subtitle": "Weapon Skins",
+                "description": [
+                    "Weapon skins are now available to purchase and collect!",
+                    "In this initial release, there are more than 200 skins with around 28 patterns",
+                    "Each skin pattern you obtain is unique, which means that even if someone obtained the same skin as you did, the patterns will look different",
+                    "You can obtain weapon skins through opening crates, please see the <a href=\"/shop\">Shop</a> for more details",
+                    "Weapon skins are equippable in your <a href=\"/loadouts\">Account Loadouts</a>"
+                ]
+            },
+            {
+                "subtitle": "Vox Gems",
+                "description": [
+                    "Vox Gems is the official in game currency of Voxiom",
+                    "You earn 1 vox gem for every 100 XP in Capture The Gems or Battle Royale",
+                    "You can claim additional free vox gems (10-30) by watching a short video ad every hour if you complete a match during that time period (The popup can be disabled in the General Settings section)",
+                    "More ways to earn vox gems are coming very soon, stay tuned for giveaways on our Discord!"
+                ]
+            },
+            {
+                "subtitle": "Voxiom Studio",
+                "description": [
+                    "<a href=\"/studio\">Voxiom Studio</a> is the official tool for quickly viewing and testing Voxiom skins",
+                    "Feel free to explore the possibilities. However, for a skin to be added to the game, it MUST go through the submission process and be approved by our staff and the community on Discord"
+                ]
+            },
+            {
+                "subtitle": "Miscellaneous",
+                "description": [
+                    "Leaderboard now shows up to 30 top players",
+                    "Fixed incorrect player alive count in Battle Royale"
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Improvements",
+        "version": "v0.4.8.4",
+        "date": "",
+        "description": "",
+        "list": [
+            {
+                "subtitle": "Miscellaneous",
+                "description": [
+                    "Removed Voxiom Studio. It's causing too much confusion.",
+                    "Improved chunk loading time"
+                ]
+            },
+            {
+                "subtitle": "Free For All Test Server",
+                "description": [
+                    "Help us test the server! Play it <a href=\"/?ip=ffa.voxiom.io\">here</a>"
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Improvements",
+        "version": "v0.4.8.3",
+        "date": "",
+        "description": "",
+        "list": [
+            {
+                "subtitle": "Keybinds",
+                "description": [
+                    "Disabled various keybinds when chat input is active",
+                    "You can now close inventory using the ESC key",
+                    "If a chest or work station is destroyed when you are in it, your inventory no longer closes and you no longer drop the item on your cursor. Instead, you are switched to the normal player inventory view"
+                ]
+            },
+            {
+                "subtitle": "[Experimental] Voxiom Studio",
+                "description": [
+                    "Introducing Voxiom Studio, a tool to view and create skins",
+                    "There isn't an official guide, so feel free to explore!",
+                    "Unfortunately, custom texture aren't currently supported. They will be added soon",
+                    "You can access the tool at <a href=\"/studio\">https://voxiom.io/studio</a>"
+                ]
+            },
+            {
+                "subtitle": "Free For All Test Server",
+                "description": [
+                    "Help us test the server! Play it <a href=\"/?ip=ffa.voxiom.io\">here</a>"
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Improvements",
+        "version": "v0.4.8.2",
+        "date": "",
+        "description": "",
+        "list": [
+            {
+                "subtitle": "Survival",
+                "description": [
+                    "Removed spawn castles, you now spawn randomly on the map (away from other players)",
+                    "You may change your loadout in your inventory when you respawn"
+                ]
+            },
+            {
+                "subtitle": "Capture The Gems",
+                "description": [
+                    "Disabled gem capturing for the first 5 minutes of the game"
+                ]
+            },
+            {
+                "subtitle": "Loadout",
+                "description": [
+                    "Added \"no primary weapons\" option",
+                    "Added \"no secondary weapons\" option"
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Optimizations and Quality of Life",
+        "version": "v0.4.8.1",
+        "date": "",
+        "description": "",
+        "list": [
+            {
+                "subtitle": "Free For All Test Server",
+                "description": [
+                    "Help us test the server! Play it <a href=\"/?ip=ffa.voxiom.io\">here</a>"
+                ]
+            },
+            {
+                "subtitle": "Battle Royale",
+                "description": [
+                    "Removed dirt mountains",
+                    "Added a snowy region with a new point of interest"
+                ]
+            },
+            {
+                "subtitle": "Inventory",
+                "description": [
+                    "Added shift click to move items quickly in inventory/chests",
+                    "Added shift click to craft items quickly",
+                    "The inventory shift key is changeable in settings"
+                ]
+            },
+            {
+                "subtitle": "Optimizations",
+                "description": [
+                    "Various chunk optimizations and FPS improvements",
+                    "Increased render distance by 33%!!!"
+                ]
+            },
+            {
+                "subtitle": "Bug Fixes",
+                "description": [
+                    "Fixed battle royale stats not showing up in game over screen"
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Survival Release!",
+        "version": "v0.4.8",
+        "date": "",
+        "description": "",
+        "list": [
+            {
+                "subtitle": "Survival",
+                "description": [
+                    "The survival mode (previously sandbox) is now available in all regions for level 5 and above!",
+                    "Decreased map size",
+                    "Increased iron and emerald ore spawn rates!",
+                    "Added various tips in chat",
+                    "Thank you for testing the survival mode. There are a lot more features coming!"
+                ]
+            },
+            {
+                "subtitle": "Free For All Test Server",
+                "description": [
+                    "Help us test the server! Play it <a href=\"/?ip=ffa.voxiom.io\">here</a>"
+                ]
+            },
+            {
+                "subtitle": "Optimizations",
+                "description": [
+                    "Various chunk rendering optimizations",
+                    "Fixed reinforced sapphire and ruby block name/description"
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Bug Fixes",
+        "version": "v0.4.7.5",
+        "date": "",
+        "description": "",
+        "list": [
+            {
+                "subtitle": "Free For All Test Server",
+                "description": [
+                    "Fixed loadout system",
+                    "Prevent item drop during loadout change",
+                    "You can access the server <a href=\"/?ip=ffa.voxiom.io\">here</a>"
+                ]
+            },
+            {
+                "subtitle": "Survival (previously Sandbox) Test Server",
+                "description": [
+                    "Renamed sandbox to survival server",
+                    "You can now gain XP in survival! For every 10 minutes, you will earn 250 xp if you have gained more than 100 score during this time period (The score count towards the next time period if you didn't reach 100 in this time period) ",
+                    "/delay delays the sever reset by 20 minutes",
+                    "Bigger map",
+                    "Decreased surface boulder spawn rate",
+                    "Added ore and stone generation under desert and snow biomes",
+                    "Nearby items/players no longer prevent berries from growing into trees",
+                    "Made deserts generate more cactus",
+                    "Decreased iron and emerald spawn rate",
+                    "Trees can no longer be planted inside spawn",
+                    "Cactus/trees no longer generate inside of/too close to spawn",
+                    "Unbreakable blocks can no longer be placed too close to spawn",
+                    "You can access the server <a href=\"/?ip=survival.voxiom.io\">here</a>"
+                ]
+            },
+            {
+                "subtitle": "Capture The Gems",
+                "description": [
+                    "Cactus/trees no longer generate inside of/too close to spawn"
+                ]
+            },
+            {
+                "subtitle": "Bug Fixes",
+                "description": [
+                    "Items dropped from chests no longer go inside of nearby blocks",
+                    "Debug panel no longer triggers when typing in chat"
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Bug Fixes",
+        "version": "v0.4.7.4",
+        "date": "",
+        "description": "",
+        "list": [
+            {
+                "subtitle": "Free For All Test Server",
+                "description": [
+                    "You can access the server <a href=\"/?ip=ffa.voxiom.io\">here</a>"
+                ]
+            },
+            {
+                "subtitle": "Sandbox Test Server",
+                "description": [
+                    "You can access the server <a href=\"/?ip=sandbox.voxiom.io\">here</a>"
+                ]
+            },
+            {
+                "subtitle": "Bug Fixes",
+                "description": [
+                    "Fixed game loading screen",
+                    "Fixed an exploit in Battle Royale"
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Bug Fixes",
+        "version": "v0.4.7.3",
+        "date": "",
+        "description": "",
+        "list": [
+            {
+                "subtitle": "Free For All Test Server",
+                "description": [
+                    "You can access the server <a href=\"/?ip=ffa.voxiom.io\">here</a>"
+                ]
+            },
+            {
+                "subtitle": "Sandbox Test Server",
+                "description": [
+                    "Made the map bigger",
+                    "/hurry shortens the timer by 30 minutes, and /delay extends the timer by 15 minutes",
+                    "You can access the server <a href=\"/?ip=sandbox.voxiom.io\">here</a>"
+                ]
+            },
+            {
+                "subtitle": "Bug Fixes",
+                "description": [
+                    "Fixed showing health &gt; 0 after you die",
+                    "Fixed a physics bug allowing players to go inside blocks",
+                    "A black overlay appears to obstruct the view if the player camera somehow gets inside a block",
+                    "Made debug text easier to read",
+                    "Disallow putting gems in chests in Capture The Gems"
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Bug Fixes",
+        "version": "v0.4.7.2",
+        "date": "",
+        "description": "",
+        "list": [
+            {
+                "subtitle": "Free For All Test Server",
+                "description": [
+                    "You can access the server <a href=\"/?ip=ffa.voxiom.io\">here</a>"
+                ]
+            },
+            {
+                "subtitle": "Sandbox Test Server",
+                "description": [
+                    "You can now play sandbox as a guest",
+                    "You can access the server <a href=\"/?ip=sandbox.voxiom.io\">here</a>"
+                ]
+            },
+            {
+                "subtitle": "Bug Fixes",
+                "description": [
+                    "Fixed ghost blocks that are created when blocks are modified as a chunk loads",
+                    "Fixed ghost blocks caused by incorrect client prediction",
+                    "Fixed ghost block cracks caused by incorrect client prediction",
+                    "Fixed auto stepper wall clipping glitch",
+                    "Fixed gems disappearing when you drop them near spawns with a full inventory"
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Bug Fixes",
+        "version": "v0.4.7.1",
+        "date": "",
+        "description": "",
+        "list": [
+            {
+                "subtitle": "Bug Fixes",
+                "description": [
+                    "Fixed ceiling crouch noclip xray"
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Chests",
+        "version": "v0.4.7",
+        "date": "",
+        "description": "",
+        "list": [
+            {
+                "subtitle": "Chests!",
+                "description": [
+                    "Chests are storage blocks where you can store your items",
+                    "Wooden chests have 4 slots, iron chests have 8 slots, and golden chests have 12 slots",
+                    "When a chest is destroyed, all of its items are dropped",
+                    "Wooden chests are craftable anywhere using 50 wood",
+                    "Iron chests are craftable in the work station using 20 iron and 5 emeralds",
+                    "Golden chests cannot be crafted, but they can be found underground in the sandbox mode!"
+                ]
+            },
+            {
+                "subtitle": "Free For All Test Server",
+                "description": [
+                    "Fixed game stuck at 0 seconds",
+                    "A timer tick sound is played near the end of a game",
+                    "You can access the server <a href=\"/?ip=ffa.voxiom.io\">here</a>"
+                ]
+            },
+            {
+                "subtitle": "Sandbox Test Server",
+                "description": [
+                    "Added randomly generated underground dungeon rooms that contain golden chests!",
+                    "You can access the server <a href=\"/?ip=sandbox.voxiom.io\">here</a>"
+                ]
+            },
+            {
+                "subtitle": "Capture The Gems",
+                "description": [
+                    "A timer tick sound is played near the end of a game"
+                ]
+            },
+            {
+                "subtitle": "Battle Royale",
+                "description": [
+                    "A timer tick sound is played before game starts and before each toxic fog approaches"
+                ]
+            },
+            {
+                "subtitle": "Bug Fixes",
+                "description": [
+                    "Fixed inventory input prediction in certain situations",
+                    "Player inventory slots are properly cleared visually on death",
+                    "Respawn screen are now hidden when game ends / server disconnects",
+                    "Added confirmation prompt to prevent players from accidentally leaving the game",
+                    "Leaving the game through the game menu redirects you to the home page"
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Miscellaneous",
+        "version": "v0.4.6.1",
+        "date": "",
+        "description": "",
+        "list": [
+            {
+                "subtitle": "Free For All Test Server",
+                "description": [
+                    "Optimized map to reduce lag",
+                    "Optimized UI to reduce lag",
+                    "No longer has a 300 points cap, the winner is determined when the timer runs out",
+                    "Improved server loading time (when the server resets, it should come back online much quicker than before)",
+                    "You can access the server <a href=\"/?ip=ffa.voxiom.io\">here</a>"
+                ]
+            },
+            {
+                "subtitle": "Sandbox Test Server",
+                "description": [
+                    "Added tree planting!",
+                    "To grow a tree, drop red berries or orange berries on a grass/dirt block and wait 1-1.5 minutes (timer is random)",
+                    "Red berries grow red berry trees, and orange berries grow orange berry trees",
+                    "The more berries in the dropped item stack, the more berries the grown tree will produce",
+                    "There must be enough space around the dropped berries for the tree to grow",
+                    "Players/dropped items cannot be too close to the tree for the tree to grow",
+                    "You can access the server <a href=\"/?ip=sandbox.voxiom.io\">here</a>"
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Free For All",
+        "version": "v0.4.6",
+        "date": "",
+        "description": "",
+        "list": [
+            {
+                "subtitle": "Free For All Test Server",
+                "description": [
+                    "New game mode is available for beta testing!",
+                    "Everyone is your enemy! First to 300 points wins!",
+                    "Brand new custom built map!",
+                    "Match duration is 10 minutes. When timer runs out, players with the highest score win!",
+                    "Stats are not tracked during this beta test",
+                    "You can change your loadout in your inventory as long as you do not move after you spawn/respawn",
+                    "You can access the server <a href=\"/?ip=ffa.voxiom.io\">here</a>"
+                ]
+            },
+            {
+                "subtitle": "Sandbox Test Server",
+                "description": [
+                    "Added AFK kicker (kicked if you don't move for 10 minutes)",
+                    "You can access the server <a href=\"/?ip=sandbox.voxiom.io\">here</a>"
+                ]
+            },
+            {
+                "subtitle": "Bug Fixes",
+                "description": [
+                    "Dead bodies should no longer prevent block placement",
+                    "Fixed item not being refunded if item drop is cancelled",
+                    "Fixed block not being refunded if block placement in water is cancelled",
+                    "Fixed gun icons sometimes being invisible"
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Miscellaneous",
+        "version": "v0.4.5.1",
+        "date": "",
+        "description": "",
+        "list": [
+            {
+                "subtitle": "Sandbox Server",
+                "description": [
+                    "Added server reset voting system",
+                    "The server resets every 24 hours, but you can use /delay to delay the reset or /hurry to shorten the timer every hour",
+                    "You can access the server <a href=\"/?ip=sandbox.voxiom.io\">here</a>"
+                ]
+            },
+            {
+                "subtitle": "Miscellaneous",
+                "description": [
+                    "Chat dialog should no longer break lines in the middle of a word",
+                    "Teammates should no longer be able to cancel your healing",
+                    "Players should no longer be able to cancel your healing in spawn"
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Miscellaneous",
+        "version": "v0.4.5",
+        "date": "",
+        "description": "",
+        "list": [
+            {
+                "subtitle": "Sandbox Server",
+                "description": [
+                    "Increased number of spawns to 4",
+                    "Added snow biome",
+                    "You can access the server <a href=\"/?ip=sandbox.voxiom.io\">here</a>",
+                    "You no longer need to click play to join the sandbox"
+                ]
+            },
+            {
+                "subtitle": "Miscellaneous",
+                "description": [
+                    "Added ambient occlusion and better lighting to all gun models",
+                    "Added an outline to player cursors on the minimap",
+                    "Increased movement speed of light sniper rifle",
+                    "Increased movement speed of heavy sniper rifle"
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Miscellaneous",
+        "version": "v0.4.4",
+        "date": "",
+        "description": "",
+        "list": [
+            {
+                "subtitle": "Sandbox Server",
+                "description": [
+                    "An experimental sandbox server where stats are not tracked",
+                    "No time limit, but server might get restarted anytime without notice",
+                    "PVP is enabled",
+                    "You can access the server <a href=\"/?ip=sandbox.voxiom.io\">here</a> (click play)"
+                ]
+            },
+            {
+                "subtitle": "Miscellaneous",
+                "description": [
+                    "Fixed ammo count and hand model not updating when you switch between items of the same type",
+                    "Added ambient occlusion to Surge Assault Rifle models (it should look prettier)"
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Shovel Nerf",
+        "version": "v0.4.3.3",
+        "date": "",
+        "description": "",
+        "list": [
+            {
+                "subtitle": "",
+                "description": [
+                    "Decreased shovel damage. Low-tier shovels were too powerful"
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Bug Fixes",
+        "version": "v0.4.3.2",
+        "date": "",
+        "description": "",
+        "list": [
+            {
+                "subtitle": "",
+                "description": [
+                    "Fixed camera shaking rapidly when you win a match"
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Bug Fixes",
+        "version": "v0.4.3.1",
+        "date": "",
+        "description": "",
+        "list": [
+            {
+                "subtitle": "",
+                "description": [
+                    "Fixed camera not panning towards death source when you get eliminated in battle royale",
+                    "Fixed a visual glitch that made health bar not going to 0 when you die",
+                    "Fixed requiring an extra xp point to level up for each level",
+                    "Greatly increased player damage of shovels"
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Bug Fixes",
+        "version": "v0.4.3",
+        "date": "",
+        "description": "",
+        "list": [
+            {
+                "subtitle": "",
+                "description": [
+                    "Fixed not able to chat while waiting for respawn",
+                    "Fixed \"Using items\" dialog getting stuck on the screen when you get killed during item consumption",
+                    "Crosshair is now hidden as soon as you scope in",
+                    "Removed delay between sniper shots and non-sniper shots. However, the delay between sniper shots of different snipers remains"
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Bug Fixes",
+        "version": "v0.4.2",
+        "date": "",
+        "description": "",
+        "list": [
+            {
+                "subtitle": "",
+                "description": [
+                    "Fixed a glitch causing you to play 2 matches simulatenously",
+                    "Fixed the delay when switching from normal sensitivity to scope/ads sensitivity",
+                    "Fixed a DNS issue that caused some servers to become unreachable"
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Loadout",
+        "version": "v0.4.1",
+        "date": "",
+        "description": "",
+        "list": [
+            {
+                "subtitle": "Capture The Gems",
+                "description": [
+                    "Added light sniper rifle to loadout station",
+                    "Added heavy sniper rifle to loadout station",
+                    "Removed chests on towers"
+                ]
+            },
+            {
+                "subtitle": "Map",
+                "description": [
+                    "Increased sulfur ore spawn rate"
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Content",
+        "version": "v0.4",
+        "date": "",
+        "description": "",
+        "list": [
+            {
+                "subtitle": "Weapons and Items",
+                "description": [
+                    "Added light sniper rifle: low recoil, decently accurate while moving, decent damage",
+                    "Added heavy sniper rifle: high recoil, accurate only when standing still, high damage",
+                    "Added sulfur ores",
+                    "Added sniper rifle ammo"
+                ]
+            },
+            {
+                "subtitle": "Matchmaking",
+                "description": [
+                    "Once in a Capture The Gems match, you are able to copy and share the url to your friends, and they can join instantly",
+                    "If you used an invalid match invite url, you will be assigned to another match randomly"
+                ]
+            },
+            {
+                "subtitle": "UI",
+                "description": [
+                    "Enabled chat in Battle Royale"
+                ]
+            },
+            {
+                "subtitle": "Map",
+                "description": [
+                    "Added sulfur ores in Battle Royale and Capture The Gems",
+                    "Added bronze chests, silver chests, and golden chests in Capture The Gems. They only drop snipers"
+                ]
+            },
+            {
+                "subtitle": "Crafting",
+                "description": [
+                    "Ammos can now be crafted with iron, emerald, and sulfur"
+                ]
+            },
+            {
+                "subtitle": "Physics",
+                "description": [
+                    "You can no longer ADS/scope when reloading and switching items"
+                ]
+            },
+            {
+                "subtitle": "Settings",
+                "description": [
+                    "Added ADS Sensitivity Multiplier: Allows you to change the sensitivity multiplier when you are aiming down sights. Defaults to a 1:1 approximated ratio between hip fire and ADS in terms of number of pixels moved",
+                    "Added Scoped Sensitivity Multiplier: Allows you to change the sensitivity multiplier when you are scoped in with a sniper. Defaults to a 1:1 approximated ratio between hip fire and scoped in terms of number of pixels moved",
+                    "Added Sniper Scope Image URL: Allows you to change the scope image",
+                    "Added Sniper Scope Image Opacity: Allows you to change the scope image's opacity",
+                    "Added Sniper Scope Image Scale X: Allows you to change the scope image's horizontal scale",
+                    "Added Sniper Scope Image Scale Y: Allows you to change the scope image's vertical scale",
+                    "Added Sniper Scope Background Color: Allows you to change the scope's background color",
+                    "Added Sniper Scope Background Opacity: Allows you to change the scope's background opacity"
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Miscellaneous",
+        "version": "v0.3.3.2",
+        "date": "",
+        "description": "",
+        "list": [
+            {
+                "subtitle": "UI",
+                "description": [
+                    "Fixed matchmaker error message overflow",
+                    "Added some ad banners in various places"
+                ]
+            },
+            {
+                "subtitle": "Free For All",
+                "description": [
+                    "Started working on Free For All game mode! Open Beta will be released soon. Keep an eye on this page 👀"
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Miscellaneous",
+        "version": "v0.3.3.2",
+        "date": "",
+        "description": "",
+        "list": [
+            {
+                "subtitle": "UI",
+                "description": [
+                    "Reverted UI scaling change"
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Miscellaneous",
+        "version": "v0.3.3.1",
+        "date": "",
+        "description": "",
+        "list": [
+            {
+                "subtitle": "UI",
+                "description": [
+                    "Added some ad banners",
+                    "Optimized UI scaling so that game hud elements wouldn't overlap"
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Miscellaneous",
+        "version": "v0.3.3",
+        "date": "",
+        "description": "",
+        "list": [
+            {
+                "subtitle": "Stats",
+                "description": [
+                    "Added scores leaderboard!",
+                    "Leadeboards are now sorted by scores by default",
+                    "Match stats show scores",
+                    "Players are sorted by score in a CTG match page",
+                    "Ineligible CTG matches are no longer counted in match history and leaderboards (a match is considered ineligible if you have neither earned score nor died)"
+                ]
+            },
+            {
+                "subtitle": "Spray",
+                "description": [
+                    "You can now spray (default key is T) on blocks"
+                ]
+            },
+            {
+                "subtitle": "Modding",
+                "description": [
+                    "Custom textures are applied to block icons"
+                ]
+            },
+            {
+                "subtitle": "Bug Fixes",
+                "description": [
+                    "Fixed stationary entities are sometimes invisible"
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Miscellaneous",
+        "version": "v0.3.2",
+        "date": "",
+        "description": "",
+        "list": [
+            {
+                "subtitle": "Respawn",
+                "description": [
+                    "Respawning is no longer automatic and must be manually triggered",
+                    "Bigger and animated respawn text",
+                    "\"Pick up items\" prompt no longer shows when you are dead"
+                ]
+            },
+            {
+                "subtitle": "Settings",
+                "description": [
+                    "UI redesign",
+                    "Settings are now saved automatically",
+                    "Added a modding section that allows you to use custom block textures"
+                ]
+            },
+            {
+                "subtitle": "Bug Fixes",
+                "description": [
+                    "Fixed muted players being able to talk in match chat"
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Weapons",
+        "version": "v0.3.1",
+        "date": "",
+        "description": "",
+        "list": [
+            {
+                "subtitle": "Magnum Pistol",
+                "description": [
+                    "Added the Magnum Pistol, a powerful single shot pistol with high recoil"
+                ]
+            },
+            {
+                "subtitle": "Strike Pistol",
+                "description": [
+                    "Increased clip size to 12"
+                ]
+            },
+            {
+                "subtitle": "Loadout Station",
+                "description": [
+                    "You can now select your primary and secondary loadouts separately",
+                    "Loadout preferences are saved"
+                ]
+            },
+            {
+                "subtitle": "View Models",
+                "description": [
+                    "Lightings on first person gun models are now always coming from the same direction for more consistent visuals"
+                ]
+            }
+        ]
+    },
+    {
+        "title": "More Stats",
+        "version": "v0.3.0",
+        "date": "",
+        "description": "",
+        "list": [
+            {
+                "subtitle": "Match History",
+                "description": [
+                    "Added match history in player profiles (up to 10 past matches)",
+                    "Added detailed match log page",
+                    "Example match history page: <a href=\"/player/ThriveR\">https://voxiom.io/player/ThriveR</a>",
+                    "Example BR match: <a href=\"/match/br/f3df16a4-5ed5-4f6d-b266-7ed78e66b835\">https://voxiom.io/match/br/f3df16a4-5ed5-4f6d-b266-7ed78e66b835</a>",
+                    "Example CTG match: <a href=\"/match/ctg/5fc4c09c-ac73-4da7-8f15-0f78f7c6dc12\">https://voxiom.io/match/ctg/5fc4c09c-ac73-4da7-8f15-0f78f7c6dc12</a>"
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Stats",
+        "version": "v0.2.9",
+        "date": "",
+        "description": "",
+        "list": [
+            {
+                "subtitle": "Leaderboards",
+                "description": [
+                    "Added daily and weekly leaderboards",
+                    "Weekly leaderboards reset every Sunday at 0am PST",
+                    "Daily leaderboards reset every day at 0am PST",
+                    "Leaderboards are updated every 5 minutes",
+                    "Better time string conversion"
+                ]
+            },
+            {
+                "subtitle": "Bug Fixes",
+                "description": [
+                    "Fixed another wall clipping xray glitch"
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Miscellaneous",
+        "version": "v0.2.8.1",
+        "date": "",
+        "description": "",
+        "list": [
+            {
+                "subtitle": "Capture The Gems",
+                "description": [
+                    "Number of total games count is only increased if you have either died, killed an enemy, or captured a gem",
+                    "You will no longer be placed into a game that is almost finished (if either team has a score &gt;= 50)"
+                ]
+            },
+            {
+                "subtitle": "Bug Fixes",
+                "description": [
+                    "Fixed dead players blocking bullets",
+                    "Fixed getting \"You can't damage players in their spawn!\" randomly"
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Miscellaneous",
+        "version": "v0.2.8",
+        "date": "",
+        "description": "",
+        "list": [
+            {
+                "subtitle": "Chat",
+                "description": [
+                    "Added text shadow to chat text for better readability",
+                    "Increased chat text size"
+                ]
+            },
+            {
+                "subtitle": "Stats",
+                "description": [
+                    "Battle Royale - Leaving the game early before your death counts towards your total number of games played (It's fine to leave before the game starts)",
+                    "Capture The Gems - Leaving the game before it finishes counts towards your total number of games played (Joining/leaving the same game multiple times only counts as 1 game played)",
+                    "Capture The Gems - Stats are not saved if the game has less than 6 players (always been this way)"
+                ]
+            },
+            {
+                "subtitle": "Bug Fixes",
+                "description": [
+                    "Fixed an issue related to playing the correct block footstep sound"
+                ]
+            },
+            {
+                "subtitle": "Miscellaneous",
+                "description": [
+                    "Implemented various staff tools",
+                    "Capture The Gems - You won't be placed into a game where there are only less than 5 minutes left"
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Content",
+        "version": "v0.2.7",
+        "date": "",
+        "description": "",
+        "list": [
+            {
+                "subtitle": "Weapons",
+                "description": [
+                    "Added the Compact Submachine Gun",
+                    "Increased effective range of submachine guns",
+                    "Decreased minimum damage of submachine guns"
+                ]
+            },
+            {
+                "subtitle": "Capture The Gems",
+                "description": [
+                    "Added a ceiling to the gem towers to prevent camping inside of them",
+                    "You are not supposed to go on the gem towers...but in case you do and get stuck there, there is a cactus that you can kill yourself with"
+                ]
+            },
+            {
+                "subtitle": "Balance",
+                "description": [
+                    "Increased cactus damage to 25 per second (used to be 15 per 2 seconds)"
+                ]
+            },
+            {
+                "subtitle": "Bug Fixes",
+                "description": [
+                    "Fixed another wall clipping / x-ray exploit"
+                ]
+            },
+            {
+                "subtitle": "Engine",
+                "description": [
+                    "Modular plugin support (took a lot of effort)"
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Quality of Life",
+        "version": "v0.2.6.1",
+        "date": "",
+        "description": "",
+        "list": [
+            {
+                "subtitle": "Capture The Gems",
+                "description": [
+                    "You can no longer build near the gem towers",
+                    "Removed the ceilings of gem towers, so people can't just camp there"
+                ]
+            },
+            {
+                "subtitle": "Bug Fixes",
+                "description": [
+                    "Made Block editing cancellation feedback more \"instant\""
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Quality of Life",
+        "version": "v0.2.6",
+        "date": "",
+        "description": "",
+        "list": [
+            {
+                "subtitle": "Capture The Gems",
+                "description": [
+                    "Team gems are now stored in unbreakable gem towers",
+                    "Both teams can build around the team gems",
+                    "Fun trivia: The gem towers are made out of new unbreakable blocks: Bedrock Bricks, reinforced ruby, and reinforced sapphire"
+                ]
+            },
+            {
+                "subtitle": "Settings",
+                "description": [
+                    "Added settings to hide chat"
+                ]
+            },
+            {
+                "subtitle": "Inventory",
+                "description": [
+                    "Only ammos for the guns you own are picked up automatically"
+                ]
+            },
+            {
+                "subtitle": "Bug Fixes",
+                "description": [
+                    "You can no longer join the same game multiple times using the same account"
+                ]
+            },
+            {
+                "subtitle": "Optimizations",
+                "description": [
+                    "The game should no longer lag when a huge structure is destroyed"
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Stats",
+        "version": "v0.2.5.4",
+        "date": "",
+        "description": "",
+        "list": [
+            {
+                "subtitle": "Stats",
+                "description": [
+                    "Added player stats page (e.g. <a href=\"/player/ThriveR\">https://voxiom.io/player/ThriveR</a>)"
+                ]
+            },
+            {
+                "subtitle": "Bug Fixes",
+                "description": [
+                    "Fixed matchmaking server crash"
+                ]
+            }
+        ]
+    },
+    {
+        "title": "UI",
+        "version": "v0.2.5.3",
+        "date": "",
+        "description": "",
+        "list": [
+            {
+                "subtitle": "UI",
+                "description": [
+                    "You can now change settings outside of the game",
+                    "Game pages are now linkable (e.g. <a href=\"/leaderboard\">https://voxiom.io/leaderboard</a>)",
+                    "Removed news page (merged with this page)"
+                ]
+            },
+            {
+                "subtitle": "Leaderboard",
+                "description": [
+                    "Battle royale leaderboard is now sortable by kills, games won, or survival time",
+                    "Capture the gems leaderboard is now sortable by kills, games won, or captures"
+                ]
+            },
+            {
+                "subtitle": "Bug Fixes",
+                "description": [
+                    "Fixed ghost items"
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Bug Fixes",
+        "version": "v0.2.5.2",
+        "date": "",
+        "description": "",
+        "list": [
+            {
+                "subtitle": "Battle Royale",
+                "description": [
+                    "Added sound cue to indicate that toxic fog has started shrinking",
+                    "Made \"Run! The toxic fog is shrinking\" hud text color orange"
+                ]
+            },
+            {
+                "subtitle": "Miscellaneous",
+                "description": [
+                    "Fixed bullets of Light Submachine Gun going through walls",
+                    "Weapons and tools dropped by other players now have the owner's player name as part of the item name"
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Bug Fixes",
+        "version": "v0.2.5.1",
+        "date": "",
+        "description": "",
+        "list": [
+            {
+                "subtitle": "Battle Royale",
+                "description": [
+                    "You no longer see your own name tag",
+                    "Parachute closes correctly when you land in water",
+                    "Added boulders"
+                ]
+            },
+            {
+                "subtitle": "Miscellaneous",
+                "description": [
+                    "Fixed loadout station item duplication exploit",
+                    "Fixed wall clipping exploit"
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Battle Royale",
+        "version": "v0.2.5",
+        "date": "",
+        "description": "",
+        "list": [
+            {
+                "subtitle": "Map",
+                "description": [
+                    "New map with 7 major point of interests and 3 minor locations to explore!",
+                    "The map will be continuously updated (regular content updates, events, feedback)",
+                    "More importantly, the foundation of custom map building allows more custom maps / map changes in the future"
+                ]
+            },
+            {
+                "subtitle": "Balance",
+                "description": [
+                    "Increased lobby time",
+                    "Slightly increased storm time",
+                    "Doubled survival exp",
+                    "Kill exp is now based on scores (like in CTG)",
+                    "Greatly increased win exp"
+                ]
+            },
+            {
+                "subtitle": "Bug Fixes",
+                "description": [
+                    "Fixed surge assault rifle client prediction"
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Quality of Life",
+        "version": "v0.2.4.1",
+        "date": "",
+        "description": "",
+        "list": [
+            {
+                "subtitle": "Servers",
+                "description": [
+                    "Fixed a major server performance issue"
+                ]
+            },
+            {
+                "subtitle": "Building",
+                "description": [
+                    "If a block placement is cancelled, the blocks are refunded to you"
+                ]
+            },
+            {
+                "subtitle": "Audio",
+                "description": [
+                    "Made digging sound more consistent",
+                    "Decreased audio debounce time, so you don't miss some audio as often"
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Weapons",
+        "version": "v0.2.4",
+        "date": "",
+        "description": "",
+        "list": [
+            {
+                "subtitle": "Weapons",
+                "description": [
+                    "Added the Surge Assault Rifle, a powerful 3-bullet burst weapon",
+                    "Increased the fire rate of the light submachine gun"
+                ]
+            },
+            {
+                "subtitle": "Crafting",
+                "description": [
+                    "Increased the size of the crafting and loadout icons",
+                    "Made the crafting list scrollable"
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Servers & Bug Fixes",
+        "version": "v0.2.3",
+        "date": "",
+        "description": "",
+        "list": [
+            {
+                "subtitle": "Servers",
+                "description": [
+                    "Added servers in US east coast (New York City)",
+                    "Fixed an issue that caused players in Asia to be put into European servers and vice-versa(lol oops)"
+                ]
+            },
+            {
+                "subtitle": "Bug Fixes",
+                "description": [
+                    "Fixed a memory leak",
+                    "Replaced light submachine gun sound to fix audio clipping"
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Bug Fixes",
+        "version": "v0.2.2",
+        "date": "",
+        "description": "",
+        "list": [
+            {
+                "subtitle": "Crafting",
+                "description": [
+                    "New crafting recipe: 1 rock -&gt; 9 stone bricks",
+                    "Increased all stone bricks hardness to 4.0 units"
+                ]
+            },
+            {
+                "subtitle": "Performance",
+                "description": [
+                    "Doubled item entities' auto merge radius"
+                ]
+            },
+            {
+                "subtitle": "Models",
+                "description": [
+                    "Fixed tactical assault rifle's model"
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Bug Fixes",
+        "version": "v0.2.1.1",
+        "date": "",
+        "description": "",
+        "list": [
+            {
+                "subtitle": "Accounts",
+                "description": [
+                    "Nickname uniqueness is now case-insensitive.",
+                    "For the existing duplicated names, only the first account who took the nickname gets to keep it. The others are given another chance at naming themselves"
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Bug Fixes",
+        "version": "v0.2.1",
+        "date": "",
+        "description": "",
+        "list": [
+            {
+                "subtitle": "Crosshair",
+                "description": [
+                    "Added new crosshair style: Dot"
+                ]
+            },
+            {
+                "subtitle": "Building",
+                "description": [
+                    "Fixed building mode visual glitch after respawning",
+                    "Fixed floating blocks chain destruction animation"
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Content & Bug Fixes",
+        "version": "v0.2",
+        "date": "",
+        "description": "",
+        "list": [
+            {
+                "subtitle": "Building",
+                "description": [
+                    "You can now build stairs",
+                    "For places where you cannot build (either not enough materials or there are players in the way), a red highlight will always be shown",
+                    "Building now ignores item switch cooldown (You can swap out blocks and build instantly)"
+                ]
+            },
+            {
+                "subtitle": "Items",
+                "description": [
+                    "Default max item stack size has been increased to 255"
+                ]
+            },
+            {
+                "subtitle": "Blocks",
+                "description": [
+                    "Increased cactus collision damage to 15 per second"
+                ]
+            },
+            {
+                "subtitle": "Capture The Gems",
+                "description": [
+                    "You can now build near your team's gem temple, so you can't get stuck in holes dug by the enemies",
+                    "Fixed a bug where the enemy can kill a gem block permanently by shooting the blocks below it",
+                    "Made team spawn bigger and have two gates"
+                ]
+            },
+            {
+                "subtitle": "Performance",
+                "description": [
+                    "Optimized server chunks management"
+                ]
+            }
+        ]
+    },
+    {
+        "title": "QoL & Bug Fixes",
+        "version": "v0.1.9.9.9",
+        "date": "",
+        "description": "",
+        "list": [
+            {
+                "subtitle": "Settings",
+                "description": [
+                    "Crosshair config",
+                    "You can now change the width, length, colors, and style of the crosshair",
+                    "Currently there are two styles available: Cross & Cross With Dot"
+                ]
+            },
+            {
+                "subtitle": "Capture The Gems",
+                "description": [
+                    "Loadout station no longer clears your entire inventory. Instead, it swaps your primary, and then gives you other items if you don't have them already."
+                ]
+            },
+            {
+                "subtitle": "Bug Fixes",
+                "description": [
+                    "Fixed ghost items bug (items that can't be picked up)",
+                    "Items no longer disappear when thrown on the edge of the world",
+                    "Fixed respawning on the edge of the world"
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Content & Bug Fixes",
+        "version": "v0.1.9.9.8",
+        "date": "",
+        "description": "",
+        "list": [
+            {
+                "subtitle": "Medals",
+                "description": [
+                    "Added 5 more medals",
+                    "Revenge: Killed someone who just killed you (+5)",
+                    "First blood: First kill of the match (+20)",
+                    "Attacker: Killed someone while having the gem (+5)",
+                    "Defender: Killed someone who has the gem (+10)",
+                    "Capture: Captured the gem! (+250)",
+                    "Renamed description of assist to \"Participated in killing an enemy\" for consistency"
+                ]
+            },
+            {
+                "subtitle": "Bug Fixes",
+                "description": [
+                    "Fixed Twitch avatar icons' height",
+                    "You can no longer get assists on teammates"
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Bug Fix",
+        "version": "v0.1.9.9.7.1",
+        "date": "",
+        "description": "",
+        "list": [
+            {
+                "subtitle": "Bug Fix",
+                "description": [
+                    "Fixed an issue that causes the game to be more laggy as you play"
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Bug Fixes & Miscellaneous",
+        "version": "v0.1.9.9.7",
+        "date": "",
+        "description": "",
+        "list": [
+            {
+                "subtitle": "Miscellaneous",
+                "description": [
+                    "Added featured streams section. Stream voxiom.io to automatically get featured on the front page!",
+                    "Added link to twitch in community section"
+                ]
+            },
+            {
+                "subtitle": "Bug Fixes",
+                "description": [
+                    "Fixed inventory UI not updating correctly when closing it by clicking outside of it",
+                    "Fixed the \"DIVER\" medal, the killer should be in water, not the victim",
+                    "Fixed block modification client prediction"
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Content & Bug Fixes",
+        "version": "v0.1.9.9.6",
+        "date": "",
+        "description": "",
+        "list": [
+            {
+                "subtitle": "Medals",
+                "description": [
+                    "A reward system that gives you additional points under certain conditions",
+                    "Currently there are 6 medals in the game: ",
+                    "Brawler: Melee kill (+10 points)",
+                    "Headshot: Killed someone with a headshot (+5 points)",
+                    "Survivor: Killed someone while being low on health (+2 points)",
+                    "Juggernaut: Killed someone while being high on health and shield (+2 points)",
+                    "Assist: Assisted a teammate in killing an enemy (+2 points)",
+                    "Diver: Killed someone while in water (+2 points)",
+                    "More medals such as revenge, first blood, attacker, defender, and other non-kill-based medals, are coming soon!"
+                ]
+            },
+            {
+                "subtitle": "Capture The Gems",
+                "description": [
+                    "Raised the height of river bed. Now there's enough space to dig under water",
+                    "Added desert biome"
+                ]
+            },
+            {
+                "subtitle": "Bug Fixes",
+                "description": [
+                    "Hitbox fixed for crouching players. You can now properly headshot them",
+                    "You can no longer see through walls when digging",
+                    "Fixed player active item not updating after respawn",
+                    "Fixed block item usage tip not updating after respawn"
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Balance, Quality of Life & Bug Fixes",
+        "version": "v0.1.9.9.5",
+        "date": "",
+        "description": "",
+        "list": [
+            {
+                "subtitle": "Capture The Gems",
+                "description": [
+                    "Nametags are shown for your teammates"
+                ]
+            },
+            {
+                "subtitle": "Bug Fixes",
+                "description": [
+                    "Melee attack now uses raycast. You can no longer melee enemy through walls",
+                    "Leaves with berries and loadout station are now breakable by fists",
+                    "Better text shadow for notifications text"
+                ]
+            },
+            {
+                "subtitle": "Balance",
+                "description": [
+                    "Shovel efficiency has been buffed significantly",
+                    "Block break sound has a shorter falloff range",
+                    "You can now place blocks / switch block placement modes while sprinting"
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Performance & Bug Fixes",
+        "version": "v0.1.9.9.4",
+        "date": "",
+        "description": "",
+        "list": [
+            {
+                "subtitle": "Capture The Gems",
+                "description": [
+                    "Fixed server shutting down randomly",
+                    "Fixed sometimes not able to find servers"
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Performance & Balance",
+        "version": "v0.1.9.9.3",
+        "date": "",
+        "description": "Tactical assault rifle had more damage per second as well as less recoil compared to the combat assault rifle. The burst shotgun became too powerful since the previous update. The light submachine gun was rarely used due to its low damage. This update aims to make each weapon shine in their own way.",
+        "list": [
+            {
+                "subtitle": "Balance",
+                "description": [
+                    "Slightly increased the damage of light submachine gun",
+                    "Slightly decreased the damage of tactical assault rifle",
+                    "Decreased bullets per shot of burst shotgun to 9",
+                    "Slightly decreased the damage of burst shotgun",
+                    "Items on ground now despawn after 1 minute instead of 30 seconds"
+                ]
+            },
+            {
+                "subtitle": "Capture The Gems",
+                "description": [
+                    "Made spawn gate bigger in Capture The Gems",
+                    "Players in spawn can no longer take damage",
+                    "Removed the chests on the spawn towers"
+                ]
+            },
+            {
+                "subtitle": "Performance",
+                "description": [
+                    "Fixed 2 texture memory leaks"
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Performance, Balance & Bug Fixes",
+        "version": "v0.1.9.9.2",
+        "date": "",
+        "description": "",
+        "list": [
+            {
+                "subtitle": "Performance",
+                "description": [
+                    "Optimized all models in game"
+                ]
+            },
+            {
+                "subtitle": "Balance",
+                "description": [
+                    "Extended match time of capture the gems to 20 minutes",
+                    "Decreased team score reward of gem capture to 30 points",
+                    "Increased clip size of burst shotgun to 6",
+                    "Increased bullets per shot of burst shotgun to 10",
+                    "Increased damage of light submachine gun by 1 (per shot)"
+                ]
+            },
+            {
+                "subtitle": "Bug Fix",
+                "description": [
+                    "Fixed an issue where Google Translate breaks the game hud UI"
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Content",
+        "version": "v0.1.9.9.1",
+        "date": "",
+        "description": "",
+        "list": [
+            {
+                "subtitle": "Capture The Gems",
+                "description": [
+                    "Added XP bar at the game end screen",
+                    "Made berries a bit more common"
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Content",
+        "version": "v0.1.9.9",
+        "date": "",
+        "description": "",
+        "list": [
+            {
+                "subtitle": "Capture The Gems",
+                "description": [
+                    "New game mode released!",
+                    "Added stats tracking",
+                    "You can no longer spam gem pickup alerts",
+                    "Added chat type in front of player names in chat",
+                    "You can send a match-wide chat by using the /all command",
+                    "Fixed ghost player models showing up for dead players in some cases"
+                ]
+            },
+            {
+                "subtitle": "Battle Royale",
+                "description": [
+                    "Increased the length of the grace periods of the first 4 toxic fog times"
+                ]
+            },
+            {
+                "subtitle": "Balance",
+                "description": [
+                    "Maximum stack size of red berries and oranges berries are increased to 12"
+                ]
+            },
+            {
+                "subtitle": "Leaderboard",
+                "description": [
+                    "We now have 3 different types of leaderboard: level, battle royale, and capture the gems"
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Content",
+        "version": "v0.1.9.8",
+        "date": "",
+        "description": "",
+        "list": [
+            {
+                "subtitle": "Test the game mode Capture The Ores <a href=\"?ip=ctg.voxiom.io\">here</a>!",
+                "description": []
+            },
+            {
+                "subtitle": "New Items and Blocks",
+                "description": [
+                    "New block: Leaves with red berries",
+                    "New block: Leaves with orange berries",
+                    "New item: red berries, restores 25 (up to 50) health points",
+                    "New item: orange berries, restores 25 (up to 25) shield points",
+                    "New recipe: 3 red berries + 1 emerald gem = 2 medicine pills",
+                    "New recipe: 6 red berries + 2 emerald gem = 1 first aid kit",
+                    "New recipe: 3 orange berries + 1 emerald gem = 2 mini shield potion",
+                    "New recipe: 4 orange berries + 1 emerald gem = 1 advanced shield potion",
+                    "New recipe: 6 orange berries + 2 emerald gem = 1 ultimate shield potion"
+                ]
+            },
+            {
+                "subtitle": "Balance",
+                "description": [
+                    "Shovels no longer have a durability limit",
+                    "Increased the melee damage of upgraded shovels",
+                    "Greatly increased the efficiency of upgraded shovels",
+                    "Increased the hardness of einforced iron blocks",
+                    "Reduced drop rate of health/shield regen items in chests",
+                    "Reduced consumption time of advanced shield potion to 3 seconds",
+                    "Reduced consumption time of ultimate shield potion to 5 seconds",
+                    "Reduced consumption time of first aid kit to 5 seconds"
+                ]
+            },
+            {
+                "subtitle": "Buildings",
+                "description": [
+                    "Added stairs to third floor of castle towers"
+                ]
+            },
+            {
+                "subtitle": "Capture The Gems",
+                "description": [
+                    "Added 4 more towers on each side of the river",
+                    "Increased game time to 15 minutes",
+                    "Make chat team only",
+                    "Spawn Protection: Your own team's spawn heals you 20 health points every second",
+                    "Spawn Protection: The enemy team's spawn damages you for 20 health points every second",
+                    "Test the game mode <a href=\"?ip=ctg.voxiom.io\">here</a>!"
+                ]
+            },
+            {
+                "subtitle": "Battle Royale",
+                "description": [
+                    "Disabled chat"
+                ]
+            },
+            {
+                "subtitle": "Miscellaneous",
+                "description": [
+                    "Reduced chat spam timeout to 30 seconds",
+                    "Chat UI no longer shows when chat is disabled",
+                    "Fixed UI flashing randomly when consuming items"
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Quality of Life",
+        "version": "v0.1.9.7.7",
+        "date": "",
+        "description": "",
+        "list": [
+            {
+                "subtitle": "",
+                "description": [
+                    "Added Facebook login method",
+                    "Fixed screen shaking at game disconnection screen",
+                    "Reduced item floating amplitude, so the bottom highlight doesn't go underground",
+                    "New Capture the Gems game mode can be tested at <a href=\"?ip=ctg.voxiom.io\">here</a>"
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Quality of Life",
+        "version": "v0.1.9.7.6",
+        "date": "",
+        "description": "",
+        "list": [
+            {
+                "subtitle": "",
+                "description": [
+                    "Slightly increased render distance (by 1 chunk)",
+                    "Added icons for health and shield bars",
+                    "Shortened game start time",
+                    "Shortened and tweaked toxic fog time",
+                    "Toxic fog now damages players every 2 seconds instead of 1 ",
+                    "New and cleaner style for hud alert text",
+                    "Added color support for hud alert text",
+                    "Re-enabled chat for level 5 and above"
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Performance",
+        "version": "v0.1.9.7.5",
+        "date": "",
+        "description": "",
+        "list": [
+            {
+                "subtitle": "",
+                "description": [
+                    "New initial chunk loading screen",
+                    "Much faster chunk loading performance in game",
+                    "Added stairs, additional doors, and second floor access to stone castles",
+                    "Slightly decreased movement modifier for combat assault rifle and tactical assault rifle",
+                    "Slightly increased auto climbing speed",
+                    "Re-textured wood blocks"
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Movement",
+        "version": "v0.1.9.7.4",
+        "date": "",
+        "description": "",
+        "list": [
+            {
+                "subtitle": "",
+                "description": [
+                    "Sprinting allows you to step up one block automatically",
+                    "Crouching prevents you from falling off edges",
+                    "Disabled chat to prevent abuse :("
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Quality of Life",
+        "version": "v0.1.9.7.3",
+        "date": "",
+        "description": "",
+        "list": [
+            {
+                "subtitle": "Miscellaneous",
+                "description": [
+                    "Made cactus damage you on collision",
+                    "Improved lag compensation",
+                    "Made swimming movement smoother in water",
+                    "Made Water flow faster",
+                    "Fixed item pick up animation visual bug"
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Quality of Life",
+        "version": "v0.1.9.7.2",
+        "date": "",
+        "description": "",
+        "list": [
+            {
+                "subtitle": "Balance",
+                "description": [
+                    "Reduced medicine pill usage time from 3 seconds to 2 seconds",
+                    "Reduced first aid kit usage time from 10 seconds to 6 seconds",
+                    "Reduced mini shield potion usage time from 3 seconds to 2 seconds",
+                    "Reduced advanced shield potion usage time from 6 seconds to 4 seconds",
+                    "Reduced ultimate shield potion usage time from 10 seconds to 6 seconds",
+                    "Added one more final circle that shrinks the battle field to 2 blocks radius",
+                    "Max toxic fog damage reduced to 5"
+                ]
+            },
+            {
+                "subtitle": "Miscellaneous",
+                "description": [
+                    "Initial terrain loading is now synchronous and therefore faster",
+                    "You can no longer use regen items while sprinting",
+                    "The full inventory view now shows your active slot and hides the quick inventory view to avoid confusion",
+                    "Added a background color to health bar and shield bar for clarity",
+                    "Made chat filter more advanced"
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Quality of Life",
+        "version": "v0.1.9.7.1",
+        "date": "",
+        "description": "",
+        "list": [
+            {
+                "subtitle": "Miscellaneous",
+                "description": [
+                    "Terrains are flatter",
+                    "Crouching no longer triggers movement sound",
+                    "Fixed entity teleportation visual bug"
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Quality of Life",
+        "version": "v0.1.9.7",
+        "date": "",
+        "description": "",
+        "list": [
+            {
+                "subtitle": "Miscellaneous",
+                "description": [
+                    "Added 2 more toxic fog which reduce the playing area to 5 units to prevent camping",
+                    "Improved game over screen",
+                    "Reduced fall damage by 20%",
+                    "Chunk loading improvements",
+                    "Netcode: entity interpolation improvements",
+                    "Fix ammo pickup logic",
+                    "Better matchmaking algorithm",
+                    "Various backend server improvements"
+                ]
+            },
+            {
+                "subtitle": "Movement",
+                "description": [
+                    "Made player collider thinner so it's easier to get in 1-block holes",
+                    "Slightly increased jump height",
+                    "Increased ground friction to make movement less slippery",
+                    "Increased air control"
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Performance",
+        "version": "v0.1.9.6",
+        "date": "",
+        "description": "",
+        "list": [
+            {
+                "subtitle": "Matchmaking",
+                "description": [
+                    "Backend infrastructure has been improved to allow multi-gamemodes in the future"
+                ]
+            },
+            {
+                "subtitle": "Social",
+                "description": [
+                    "Added various roles to discord server",
+                    "Added a subreddit /r/Voxiom"
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Performance",
+        "version": "v0.1.9.5",
+        "date": "",
+        "list": [
+            {
+                "subtitle": "",
+                "description": []
+            }
+        ],
+        "description": "Major performance optimizations have been implemented"
+    },
+    {
+        "title": "Gameplay",
+        "version": "v0.1.9.4",
+        "date": "",
+        "description": "",
+        "list": [
+            {
+                "subtitle": "Gameplay",
+                "description": [
+                    "You can now hold space to jump continuously",
+                    "Castles always generate at the 3 locations",
+                    "Added 4 gates to castles so you don't get trapped easily",
+                    "If a castle spawns on the desert, it becomes a sandstone castle"
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Performance",
+        "version": "v0.1.9.3",
+        "date": "",
+        "list": [
+            {
+                "subtitle": "",
+                "description": []
+            }
+        ],
+        "description": "Various performance optimizations have been implemented"
+    },
+    {
+        "title": "Quality of Life",
+        "version": "v0.1.9.2",
+        "date": "",
+        "description": "",
+        "list": [
+            {
+                "subtitle": "Inventory Management",
+                "description": [
+                    "You can now use the interact key to open the work station for crafting",
+                    "Removed the original crafting mechanic where you need to stand close to a work station to craft"
+                ]
+            },
+            {
+                "subtitle": "UI",
+                "description": [
+                    "Made first person damage indicator bigger"
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Quality of Life",
+        "version": "v0.1.9.1",
+        "date": "",
+        "description": "",
+        "list": [
+            {
+                "subtitle": "Inventory Management",
+                "description": [
+                    "Ammos are automatically picked up",
+                    "Items are automatically picked up if you already have an item stack with the same items that's not full",
+                    "If you try to pick up an item with empty hands, it goes straight to your active slot"
+                ]
+            },
+            {
+                "subtitle": "Chat",
+                "description": [
+                    "Chat has been turned on with filters"
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Quality of Life",
+        "version": "v0.1.9",
+        "date": "",
+        "description": "",
+        "list": [
+            {
+                "subtitle": "Inventory Management",
+                "description": [
+                    "Removed keys for selecting next/prev slot",
+                    "Added interact key to pick up / swap items",
+                    "Items must be manually picked up by looking at them and press the interact key (defaults to E)",
+                    "You can now exit the inventory by clicking outside of the view when you don't have any items on the cursor"
+                ]
+            },
+            {
+                "subtitle": "Gameplay",
+                "description": [
+                    "You are given 45 blocks of dirt on dropoff",
+                    "Item drops bounce more, so they don't clutter when you try to pick them up"
+                ]
+            },
+            {
+                "subtitle": "UI",
+                "description": [
+                    "Temporarily disabled chat due to toxicity",
+                    "All key hints now show the actual one saved in settings",
+                    "Typing in chat no longer triggers key binds"
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Balance",
+        "version": "v0.1.8.1",
+        "date": "",
+        "description": "The last update probably made the gas a little too fast, so we are reverting the changes a bit",
+        "list": [
+            {
+                "subtitle": "Toxic Gas",
+                "description": [
+                    "Increased match time to 6.5 minutes",
+                    "Increased number of toxic gas from 4 to 5"
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Balance and Performance",
+        "version": "v0.1.8",
+        "date": "",
+        "description": "The goal of this update is to make the game more fast paced and more fun to play. Some performance optimizations should also help the game to run on low end laptops.",
+        "list": [
+            {
+                "subtitle": "Toxic Gas",
+                "description": [
+                    "Reduced match time from 7 minutes to 4.5 minutes",
+                    "Reduced number of toxic gas from 6 to 4",
+                    "Toxic gas now shrink a bit faster, but you should still be able to outrun the first 2"
+                ]
+            },
+            {
+                "subtitle": "Crafting",
+                "description": [
+                    "Drastically reduced crafting cost of all gun upgrades",
+                    "Increased crafting yield of reinforced iron and wood (1:9)",
+                    "Increased crafting cost of work station to 30 wood, but it's actually easier to craft because you can craft 9 wood from 1 log now"
+                ]
+            },
+            {
+                "subtitle": "Regen",
+                "description": [
+                    "Made medicine pills only be able to heal up to 75 health points",
+                    "Made mini shield potion only be able to heal up to 75 shield points",
+                    "Made all health regen items more common in crates and chests"
+                ]
+            },
+            {
+                "subtitle": "Movement",
+                "description": [
+                    "You jump a little lower, so you are no longer able to make a 2-block tall jump",
+                    "Made gliding and freefalling faster"
+                ]
+            },
+            {
+                "subtitle": "Weapons",
+                "description": [
+                    "Slightly increased damage of light submachine gun",
+                    "Slightly increased the range of the burst shotgun",
+                    "Increased the magazine size of the burst shotgun to 5"
+                ]
+            },
+            {
+                "subtitle": "Performance",
+                "description": [
+                    "Reduced client and server update rate for better performance. The game should still feel the same",
+                    "Fixed random jitter movement especially during gliding/freefalling due to client misprediction"
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Leaderboard",
+        "version": "v0.1.7.2",
+        "date": "",
+        "description": "",
+        "list": [
+            {
+                "subtitle": "UI",
+                "description": [
+                    "New game menu UI",
+                    "Added a leaderboard based on levels"
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Google Authentication",
+        "version": "v0.1.7.1",
+        "date": "",
+        "description": "",
+        "list": [
+            {
+                "subtitle": "Accounts",
+                "description": [
+                    "You can now login with your Google accounts"
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Accounts Update",
+        "version": "v0.1.7",
+        "date": "",
+        "description": "",
+        "list": [
+            {
+                "subtitle": "Accounts",
+                "description": [
+                    "The account system is now live! Currently you can login with Discord. We will be adding more social login methods very soon!",
+                    "Once you are logged in, your stats such as kills, deaths, games won, levels, and xp will be saved",
+                    "Chat has been re-enabled for players with level 5 and above",
+                    "Your level is shown together with your username in chat",
+                    "On completion of each match, your stats will be updated",
+                    "Experience points are awarded per match based on your kills (x10 multiplier), time survived (in seconds, x0.1 multiplier), and rank (up to 500 points per win based on the number of players in the match)"
+                ]
+            },
+            {
+                "subtitle": "Balance Update",
+                "description": [
+                    "Doubled shovel durability",
+                    "Increased last circle's preparation time by 10 seconds",
+                    "Nerfed combat assault rifle's damage by 4",
+                    "Slightly increased tactical assault rifle's recoil"
+                ]
+            },
+            {
+                "subtitle": "Bug Fixes",
+                "description": [
+                    "Fixed a server crashing bug"
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Balance Update",
+        "version": "v0.1.6",
+        "date": "",
+        "description": "",
+        "list": [
+            {
+                "subtitle": "Toxic Fog",
+                "description": [
+                    "Now has up to 6 circles in total per match",
+                    "Made the first few toxic fog circles much slower. You can actually outrun them now",
+                    "Due to the above 2 changes, each match is 90 seconds longer",
+                    "Now skips over shield and damages health directly"
+                ]
+            },
+            {
+                "subtitle": "Map",
+                "description": [
+                    "Removed golden chests",
+                    "Reduced spawn rate of silver chests",
+                    "Boulders and ores spawn much more frequent",
+                    "Ores drop more gems"
+                ]
+            },
+            {
+                "subtitle": "Crafting",
+                "description": [
+                    "Reduced crafting cost of all guns",
+                    "Made epic and legendary tier guns craftable (You can only get them this way now)",
+                    "Common shovel no longer needs workbench",
+                    "Changed reinforced iron recipe to 1 iron ingot -&gt; 3 reinforced iron blocks",
+                    "You can now craft the same item continuously by continuously clicking the same recipe (before you had to move the crafted item to an inventory slot)"
+                ]
+            },
+            {
+                "subtitle": "Miscellaneous",
+                "description": [
+                    "Removed \"You are lagging too hard\" kick. A better alternative has been implemented"
+                ]
+            }
+        ]
+    },
+    {
+        "title": "",
+        "version": "v0.1.5.1",
+        "date": "",
+        "description": "",
+        "list": [
+            {
+                "subtitle": "Settings",
+                "description": [
+                    "You can now adjust sound volume"
+                ]
+            },
+            {
+                "subtitle": "Matchmaking",
+                "description": [
+                    "Reduced the likelihood of getting \"This game has already started\" when joining a game"
+                ]
+            },
+            {
+                "subtitle": "Miscellaneous",
+                "description": [
+                    "Added this page"
+                ]
+            }
+        ]
+    },
+    {
+        "title": "",
+        "version": "v0.1.5",
+        "date": "",
+        "description": "",
+        "list": [
+            {
+                "subtitle": "Map",
+                "description": [
+                    "Forests are bigger and less dense",
+                    "Plains are bigger",
+                    "New location: Stone castle village. One on the training island for fun, one on the battle island"
+                ]
+            },
+            {
+                "subtitle": "Miscellaneous",
+                "description": [
+                    "You get 99 dirt on training island for fun",
+                    "Made final circle bigger"
+                ]
+            },
+            {
+                "subtitle": "Bug Fixes",
+                "description": [
+                    "You can now use healing items while in toxic fog",
+                    "Fixed crosshair not showing up for some people (many thanks to @Catwhiskers 144 for testing!)"
+                ]
+            }
+        ]
+    },
+    {
+        "title": "",
+        "version": "v0.1.4",
+        "date": "",
+        "description": "",
+        "list": [
+            {
+                "subtitle": "Performance Optimizations",
+                "description": [
+                    "Fixed an issue burning unnecessary CPU cycles",
+                    "Added a \"Render Scale\" option in settings. Try decreasing it to increase your FPS!"
+                ]
+            }
+        ]
+    },
+    {
+        "title": "",
+        "version": "v0.1.3",
+        "date": "",
+        "description": "",
+        "list": [
+            {
+                "subtitle": "UI & Controls",
+                "description": [
+                    "Added map toggle key (defaults to M)",
+                    "You can now change all keybinds (pause menu -&gt; settings -&gt; change controls)",
+                    "Added \"Invert mouse wheel\" option in settings. This reverts the mouse wheel for item slots selection",
+                    "Fixed the conflict between pause menu and inventory. You can no longer open the map/inventory while in pause menu"
+                ]
+            }
+        ]
+    },
+    {
+        "title": "",
+        "version": "v0.1.2",
+        "date": "",
+        "description": "",
+        "list": [
+            {
+                "subtitle": "",
+                "description": [
+                    "Fixed getting stuck in \"Finding a Match...\"",
+                    "Added \"Invert Y Axis\" option in settings",
+                    "You can now resume the game by clicking anywhere on the screen",
+                    "Changed default sensitivity to 5",
+                    "Decreased toxic fog damage"
+                ]
+            }
+        ]
+    },
+    {
+        "title": "",
+        "version": "v0.1.1",
+        "date": "",
+        "description": "",
+        "list": [
+            {
+                "subtitle": "",
+                "description": [
+                    "The server now broadcasts tips in chat every 2 minutes",
+                    "Added controls info and news panel on welcome screen",
+                    "Buffed every weapon's block damage",
+                    "Weapon block damage now scales with its tier",
+                    "You are now given a legendary shovel instead of a normal one in lobby for extra fun!",
+                    "Fixed various server stability issues and netcode"
+                ]
+            }
+        ]
+    },
+    {
+        "title": "",
+        "version": "v0.1.0",
+        "date": "",
+        "description": "",
+        "list": [
+            {
+                "subtitle": "",
+                "description": [
+                    "Initial release"
+                ]
+            }
+        ]
+    }
+]

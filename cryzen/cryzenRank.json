@@ -1,0 +1,206 @@
+[
+    {
+        "level": 1,
+        "name": "Rookie I",
+        "color": "#FFFFFF",
+        "img": "rookie-1"
+    },
+    {
+        "level": 3,
+        "name": "Rookie II",
+        "color": "#FFFFFF",
+        "img": "rookie-2"
+    },
+    {
+        "level": 5,
+        "name": "Rookie III",
+        "color": "#FFFFFF",
+        "img": "rookie-3"
+    },
+    {
+        "level": 7,
+        "name": "Rookie IV",
+        "color": "#FFFFFF",
+        "img": "rookie-4"
+    },
+    {
+        "level": 10,
+        "name": "Soldier I",
+        "color": "#7AFF9F",
+        "img": "soldier-1"
+    },
+    {
+        "level": 13,
+        "name": "Soldier II",
+        "color": "#7AFF9F",
+        "img": "soldier-2"
+    },
+    {
+        "level": 16,
+        "name": "Soldier III",
+        "color": "#7AFF9F",
+        "img": "soldier-3"
+    },
+    {
+        "level": 19,
+        "name": "Soldier IV",
+        "color": "#7AFF9F",
+        "img": "soldier-4"
+    },
+    {
+        "level": 22,
+        "name": "Sergeant I",
+        "color": "#4AA8FF",
+        "img": "sergeant-1"
+    },
+    {
+        "level": 25,
+        "name": "Sergeant II",
+        "color": "#4AA8FF",
+        "img": "sergeant-2"
+    },
+    {
+        "level": 28,
+        "name": "Sergeant III",
+        "color": "#4AA8FF",
+        "img": "sergeant-3"
+    },
+    {
+        "level": 31,
+        "name": "Sergeant IV",
+        "color": "#4AA8FF",
+        "img": "sergeant-4"
+    },
+    {
+        "level": 34,
+        "name": "Sergeant V",
+        "color": "#4AA8FF",
+        "img": "sergeant-5"
+    },
+    {
+        "level": 37,
+        "name": "Lieutenant I",
+        "color": "#AD00FF",
+        "img": "lieutenant-1"
+    },
+    {
+        "level": 40,
+        "name": "Lieutenant II",
+        "color": "#AD00FF",
+        "img": "lieutenant-2"
+    },
+    {
+        "level": 43,
+        "name": "Lieutenant III",
+        "color": "#AD00FF",
+        "img": "lieutenant-3"
+    },
+    {
+        "level": 46,
+        "name": "Lieutenant IV",
+        "color": "#AD00FF",
+        "img": "lieutenant-4"
+    },
+    {
+        "level": 49,
+        "name": "Lieutenant V",
+        "color": "#AD00FF",
+        "img": "lieutenant-5"
+    },
+    {
+        "level": 52,
+        "name": "Officer I",
+        "color": "#FF4AF8",
+        "img": "officer-1"
+    },
+    {
+        "level": 55,
+        "name": "Officer II",
+        "color": "#FF4AF8",
+        "img": "officer-2"
+    },
+    {
+        "level": 58,
+        "name": "Officer III",
+        "color": "#FF4AF8",
+        "img": "officer-3"
+    },
+    {
+        "level": 61,
+        "name": "Officer IV",
+        "color": "#FF4AF8",
+        "img": "officer-4"
+    },
+    {
+        "level": 64,
+        "name": "Officer V",
+        "color": "#FF4AF8",
+        "img": "officer-5"
+    },
+    {
+        "level": 67,
+        "name": "Veteran I",
+        "color": "#2EECFF",
+        "img": "veteran-1"
+    },
+    {
+        "level": 70,
+        "name": "Veteran II",
+        "color": "#2EECFF",
+        "img": "veteran-2"
+    },
+    {
+        "level": 73,
+        "name": "Veteran III",
+        "color": "#2EECFF",
+        "img": "veteran-3"
+    },
+    {
+        "level": 76,
+        "name": "Veteran IV",
+        "color": "#2EECFF",
+        "img": "veteran-4"
+    },
+    {
+        "level": 79,
+        "name": "Veteran V",
+        "color": "#2EECFF",
+        "img": "veteran-5"
+    },
+    {
+        "level": 82,
+        "name": "Legend I",
+        "color": "#FF4A4A",
+        "img": "legend-1"
+    },
+    {
+        "level": 85,
+        "name": "Legend II",
+        "color": "#FF4A4A",
+        "img": "legend-2"
+    },
+    {
+        "level": 88,
+        "name": "Legend III",
+        "color": "#FF4A4A",
+        "img": "legend-3"
+    },
+    {
+        "level": 91,
+        "name": "Legend IV",
+        "color": "#FF4A4A",
+        "img": "legend-4"
+    },
+    {
+        "level": 94,
+        "name": "Legend V",
+        "color": "#FF4A4A",
+        "img": "legend-5"
+    },
+    {
+        "level": 100,
+        "name": "Marshal",
+        "color": "#FFE24A",
+        "img": "MARSHAL"
+    }
+]
