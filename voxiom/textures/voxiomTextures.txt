@@ -1,0 +1,161 @@
+"https://voxiom.io/package/618bda3fbca6b1910e25.png" //probably a box
+
+"https://voxiom.io/package/ecca1227c2e0406be225.png" //blue player
+"https://voxiom.io/package/cb1d14c1ff0efb6a282b.png" //green player
+"https://voxiom.io/package/aef55bdd0c3c3c3734f8.png" //red player
+
+"https://voxiom.io/package/4afafbd5d6d697c407b5.png" //default texture pack
+
+"https://voxiom.io/package/80755f66a80ad596974a.png" //ap
+"https://voxiom.io/package/92998689d6e7f5361f27.png" //comic poop
+"https://voxiom.io/package/22ba1114992ae1624111.png" //frankenstein
+"https://voxiom.io/package/079dd16b72dbb6606fdf.png" //vaporwave, bsg
+"https://voxiom.io/package/6766160924b5b9908255.png" //jungle
+"https://voxiom.io/package/4bb467ca8b1604c2eba4.png" //paint splash
+"https://voxiom.io/package/2f99c5e714acc90301f4.png" //canvas
+"https://voxiom.io/package/0b7f45f24169c6976114.png" //hokusai
+
+"https://voxiom.io/package/38f60b9326a117c97538.png" //cozy bsg
+"https://voxiom.io/package/2bc91c8363cdccc48459.png" //cozy car
+"https://voxiom.io/package/303885b241e300ef9e60.png" //cozy csmg
+"https://voxiom.io/package/48c1a242b8ff507af3e6.png" //cozy hsr
+"https://voxiom.io/package/117329a8f5859c432989.png" //cozy lsmg
+"https://voxiom.io/package/2ddda36432adc0221cb9.png" //cozy lsr
+"https://voxiom.io/package/80c7c2745d44d7112111.png" //cozy mp
+"https://voxiom.io/package/0ee845959a73fb92f010.png" //cozy sar
+"https://voxiom.io/package/f13748510d37a3bd69b1.png" //cozy sp
+"https://voxiom.io/package/185324b6068df338f0c4.png" //cozy tar
+
+"https://voxiom.io/package/ec468845261e21928556.png" //frosty bsg
+"https://voxiom.io/package/4b30f5d7ebf7d61584ae.png" //frosty car
+"https://voxiom.io/package/db71fdfbc0cd20c04129.png" //frosty csmg
+"https://voxiom.io/package/0d1bdca5485edd49afcc.png" //frosty hsr
+"https://voxiom.io/package/f01b635a2d594b9f28e5.png" //frosty lsmg
+"https://voxiom.io/package/53a69c05d5b6e87eaa3e.png" //frosty lsr
+"https://voxiom.io/package/29d92abf42695515267c.png" //frosty mp
+"https://voxiom.io/package/bf80c645b31362547450.png" //frosty sar
+"https://voxiom.io/package/b2b38d0661af8b84ed70.png" //frosty sp
+"https://voxiom.io/package/868c17cbd8e935dc31fe.png" //frosty tar
+
+"https://voxiom.io/package/96d3d581a87b83794fc7.png" //comic pop, gray
+"https://voxiom.io/package/5c73ef58f486007e7fc4.png" //comic pop, blue
+"https://voxiom.io/package/ef4e4491968ff985f186.png" //comic pop, purple
+"https://voxiom.io/package/3cd99ea5d6507b299ae0.png" //comic pop, green
+"https://voxiom.io/package/663610815e2f5289de9a.png" //cotton mist
+"https://voxiom.io/package/a1e8ca8ea9c158901725.png" //pearl marble, volcanic
+"https://voxiom.io/package/2550fe0d54b6ef9fbac3.png"
+"https://voxiom.io/package/f967ba58d85559bfa082.png"
+"https://voxiom.io/package/3278209ecad4be3f87de.png" //hallucify
+"https://voxiom.io/package/02b222f4ace0eab69dca.png"
+"https://voxiom.io/package/9bdc4a744e7e482592cd.png" //invictus
+"https://voxiom.io/package/f12e216130a2d83c210d.png"
+"https://voxiom.io/package/5ce8008105b98453db60.png" //blueprint
+"https://voxiom.io/package/bba8f1491b45b5a6bcf9.png" //vaporwave, lsr
+"https://voxiom.io/package/8f4ee7468aafadf8b982.png" //metallic magnum
+"https://voxiom.io/package/fa520391ee07529fb156.png" //tarot
+"https://voxiom.io/package/bca2f411ea53eb7aaefb.png" //terracotta
+
+"https://voxiom.io/package/preserved/59b4c5e2d0449c5c7b1e.png" //neon bsg
+"https://voxiom.io/package/preserved/6f60a25b08821e668aea.png" //neon car
+"https://voxiom.io/package/preserved/7b7f16d231011b2ad1a5.png" //neon csmg
+"https://voxiom.io/package/preserved/9d51731835a4eb5544fe.png" //neon ear
+"https://voxiom.io/package/preserved/134cdb924a2cd9f20e95.png" //neon hsr
+"https://voxiom.io/package/preserved/ecf45293f482df584a65.png" //neon lsmg
+"https://voxiom.io/package/preserved/38a99e00b54eb5d0242b.png" //neon lsr
+"https://voxiom.io/package/preserved/eab516834aeca153f716.png" //neon mp
+"https://voxiom.io/package/preserved/aec12c1c14067f488b3f.png" //neon sar
+"https://voxiom.io/package/preserved/a957f0461b4dcf2f71f4.png" //neon sp
+"https://voxiom.io/package/preserved/b75bbdae1e1d7408efef.png" //neon tar
+
+"https://voxiom.io/package/21638edf2bb70fee1b3d.png" //safari
+"https://voxiom.io/package/71bfd8a2f49c4a10b0d2.png" //parchment
+"https://voxiom.io/package/35d07d4cead57df6dee7.png" //pixel storm, all types
+"https://voxiom.io/package/6b7884e4a3d67b637c2e.png" //spring, summer, fall, winter
+"https://voxiom.io/package/37c573f04fa3ceb50e07.png" //pt
+"https://voxiom.io/package/53c3e2af570104edfa7f.png" //caution
+"https://voxiom.io/package/80823ee9a59a4aa5218c.png"
+"https://voxiom.io/package/24e0413fd94f7c8a7760.png" //circuits
+
+"https://voxiom.io/package/12a1e154581070e39964.png" //stripes bsg
+"https://voxiom.io/package/ee8a5d215f7b505a498f.png" //stripes car
+"https://voxiom.io/package/aa0448262d775322e3f0.png" //stripes csmg
+"https://voxiom.io/package/9a9c7a19116733784d14.png" //stripes ear
+"https://voxiom.io/package/48554a5087e028de39bc.png" //stripes hsr
+"https://voxiom.io/package/e8aad51be11b90ebf784.png" //stripes lsr
+"https://voxiom.io/package/56bf2430092de3ef56b9.png" //stripes lsmg
+"https://voxiom.io/package/c6bf4680a3fbac8ee8c2.png" //stripes mp
+"https://voxiom.io/package/72f63606331c8e1fd9c9.png" //stripes sp
+"https://voxiom.io/package/9545b7912fcf6c615896.png" //stripes sar
+"https://voxiom.io/package/7a5e991bc90f68c7a799.png" //stripes tar
+
+"https://voxiom.io/package/8718ff7f7ae381d28532.png" //reaper
+"https://voxiom.io/package/96deb5eabdc22fdb5299.png" //sweet
+
+"https://voxiom.io/package/b76345cf3b7046e352f3.png" //emerald bsg
+"https://voxiom.io/package/f7762fbf2ed8a0b17d48.png" //emerald car
+"https://voxiom.io/package/0eabc239f9fa4570ed6c.png" //emerald csmg
+"https://voxiom.io/package/7fe76eb2b9085a331e09.png" //emerald hsr
+"https://voxiom.io/package/da9bbe3daa9599c4ca97.png" //emerald lsmg
+"https://voxiom.io/package/19bcee568fb70bcc3a6d.png" //emerald lsr
+"https://voxiom.io/package/331dec8ad85d72282079.png" //emerald mp
+"https://voxiom.io/package/9be300794da4e7a3136f.png" //emerald sar
+"https://voxiom.io/package/9ca240972da5034b4e63.png" //emerald sp
+"https://voxiom.io/package/01771ce58a30018f651a.png" //emerald tar
+
+"https://voxiom.io/package/2f722de9662438d698c7.png" //golden bsg
+"https://voxiom.io/package/c3e2bca249103d4b8e40.png" //golden car
+"https://voxiom.io/package/09bbe937ae0d183b40f1.png" //golden csmg
+"https://voxiom.io/package/ef8280521e8e24522ce0.png" //golden hsr
+"https://voxiom.io/package/8fe3f197c9d96ee6766d.png" //golden lsmg
+"https://voxiom.io/package/0aed2ae9def17cf01868.png" //golden lsr
+"https://voxiom.io/package/0684e6938dba5b2e654b.png" //golden mp
+"https://voxiom.io/package/491b43baa724c6686543.png" //golden sar
+"https://voxiom.io/package/606d1143c8bb6d7b4b94.png" //golden sp
+"https://voxiom.io/package/f5a256e38a0bab480ad1.png" //golden tar
+
+"https://voxiom.io/package/e5c0d909ac7231d0d7d6.png" //ruby bsg
+"https://voxiom.io/package/ba1356a39c4c23e51fb6.png" //ruby car
+"https://voxiom.io/package/e1de1b3a04fa712dd238.png" //ruby csmg
+"https://voxiom.io/package/04b7d1282dd8b3ac4cf4.png" //ruby hsr
+"https://voxiom.io/package/a70d526571bd5e5b2cf9.png" //ruby lsmg
+"https://voxiom.io/package/81af25787b8d8e6632f6.png" //ruby lsr
+"https://voxiom.io/package/1c7f51cc94c29e7a3a50.png" //ruby mp
+"https://voxiom.io/package/11acf30bbf7fbe655b58.png" //ruby sar
+"https://voxiom.io/package/8bd1a1857020de8d200e.png" //ruby sp
+"https://voxiom.io/package/292fdf2253f11d54bca6.png" //ruby tar
+
+"https://voxiom.io/package/68a41b3f51fc5ac44d76.png" //sapphire bsg
+"https://voxiom.io/package/9e90e03d083ced68983ca.png" //sapphire car
+"https://voxiom.io/package/972f6a339822f0c6e8a3.png" //sapphire csmg
+"https://voxiom.io/package/b527b20f55c64cc0b174.png" //sapphire hsr
+"https://voxiom.io/package/8ad5a3fc61887450921d.png" //sapphire lsmg
+"https://voxiom.io/package/bce9a5a678cecf4d2764.png" //sapphire lsr
+"https://voxiom.io/package/183a0ca87c183646a876.png" //sapphire mp
+"https://voxiom.io/package/8c51d6adf9eca63e3e74.png" //sapphire sar
+"https://voxiom.io/package/add2f23829d25f33d953.png" //sapphire sp
+"https://voxiom.io/package/20bc4db73d95c888bd0d.png" //sapphire tar
+
+"https://voxiom.io/package/2826d261c19a710fede0.png" //dark zebra, blaze
+"https://voxiom.io/package/240d9b2b72eb32b6501a.png"
+"https://voxiom.io/package/055066010c0ff4e55542.png" //vs
+
+"https://voxiom.io/package/4760f9678342c6cb5a02.png" //vintage blossom, blue
+"https://voxiom.io/package/24acb825347d60feab36.png" //vintage blossom, purple
+"https://voxiom.io/package/415145a2c5b88cd1d69e.png" //vintage blossom, yellow
+"https://voxiom.io/package/1b70fe41d7acecb9e27d.png" //vintage blossom, cyan
+"https://voxiom.io/package/f719b6e7289b53937ca0.png" //vintage blossom, orange
+
+"https://voxiom.io/package/ba55200b316cb5d12c0a.png"
+"https://voxiom.io/package/d8f33b110eb4cd8dd6da.png"
+"https://voxiom.io/package/132c7b182a8cbad18d6e.png"
+"https://voxiom.io/package/6680a86d176ed1407e4a.png"
+"https://voxiom.io/package/782db7e136c66c27dddc.png"
+"https://voxiom.io/package/f4ea71c36b959b89edfc.png"
+"https://voxiom.io/package/1bcce3cbad7e310c4709.png"
+"https://voxiom.io/package/5ebe469ae4c2dd940b8e.png"
+"https://voxiom.io/package/6c30929941af7cfb16e5.png"
+"https://voxiom.io/package/62f8fc11ef0fe2be3166.png"
+"https://voxiom.io/package/8fc61e2ad8eb0e1b1794.png"
+"https://voxiom.io/package/f2f20ea880f116b1573e.png"
+
+//fades? fades dynamic? how to set color for neons? seasonal skins?
