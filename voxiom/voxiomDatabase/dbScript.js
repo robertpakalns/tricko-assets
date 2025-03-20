@@ -1,3 +1,8 @@
+// Use this script to generate the JSON file via Google Sheets API
+// The JSON file will be uploaded to Google Drive and the download link will be printed in the console
+
+if (!SpreadsheetApp) return console.log("Run this script in Google Sheets")
+
 const TABLE = SpreadsheetApp.getActiveSpreadsheet()
 const LENGTH = 531
 
@@ -36,6 +41,8 @@ const init = () => {
     sheets.MAIN.getRange(2, 7, row7.length, 1).setValues(row7.map(i => [i]))
 
     const mainData = sheets.MAIN.getRange(2, 1, LENGTH, 9).getValues()
+
+    // Database data
     const data = row5.map((item, i) => ({
         id: mainData[i][0],
         type: mainData[i][1],
@@ -49,6 +56,7 @@ const init = () => {
         _ra: row11[i]
     }))
 
+    // JSON file
     const json = {
         creationDate: new Date(),
         data: data
@@ -56,6 +64,7 @@ const init = () => {
 
     const blob = Utilities.newBlob(JSON.stringify(json, null, 2), "application/json", "voxiomMarket.json")
     const url = DriveApp.createFile(blob).getDownloadUrl()
-    
+
+    // Download link
     console.log(url)
 }
