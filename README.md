@@ -15,8 +15,4 @@ Collected assets for [Tricko.pro](https://tricko.pro), [Tricko Bot](https://disc
 * Tricko-themed rendered images
 * Tricko.pro backgrounds and Gravit Design assets
 
-### Missing Assets
-* Cryzen.io textures for weapons
-* Voxiom.io textures for weapons
-
 by robertpakalns | [Community Server](https://discord.gg/yPjrUrvSzv) | Powered by Tricko
