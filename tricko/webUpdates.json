@@ -1,5 +1,16 @@
 [
     {
+        "version": "0.2.6",
+        "date": "March 22, 2025",
+        "description": [
+            "Migrated assets to GitHub",
+            "Updated Cryzen.io player page",
+            "Updated Cryzen.io leaderboard page",
+            "Added GitHub links into About page",
+            "Added navigational panel on the right side of changelogs"
+        ]
+    },
+    {
         "version": "0.2.5",
         "date": "February 28, 2025",
         "description": [
