@@ -4,6 +4,7 @@ Collected assets for [Tricko.pro](https://tricko.pro), [Tricko Bot](https://disc
 ### Games
 * [Cryzen.io](https://cryzen.io)
 * [Kirka.io](https://kirka.io)
+* [Vectaria.io](https://vectaria.io)
 * [Voxiom.io](https://voxiom.io)
 
 ### Content
