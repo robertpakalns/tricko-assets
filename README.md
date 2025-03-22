@@ -10,6 +10,7 @@ Collected assets for [Tricko.pro](https://tricko.pro), [Tricko Bot](https://disc
 ### Content
 * Models
 * Textures
+* Currencies
 * Preview images
 * JSON files with data
 * JavaScript code ([Voxiom Database](https://docs.google.com/spreadsheets/d/1fYJzpqpyqqVorqgagCu2PQeE6t_Rp6nIYchPYYgg6es))
