@@ -1,5 +1,15 @@
 [
     {
+        "version": "0.2.7",
+        "date": "April 5, 2025",
+        "description": [
+            "Fixed styles in charts",
+            "Removed Back button from side panel",
+            "Updated Cryzen.io player page",
+            "Fixed styles on small screens"
+        ]
+    },
+    {
         "version": "0.2.6",
         "date": "March 22, 2025",
         "description": [
