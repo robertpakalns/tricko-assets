@@ -1,5 +1,15 @@
 [
     {
+        "version": "0.2.8",
+        "date": "April 6, 2025",
+        "description": [
+            "Updated Voxiom.io player page",
+            "Updated Voxiom.io Battle Royale match page",
+            "Added descriptions for designations on hover",
+            "Added differences between consecutive cells in tables"
+        ]
+    },
+    {
         "version": "0.2.7",
         "date": "April 5, 2025",
         "description": [
