@@ -1,5 +1,15 @@
 [
     {
+        "version": "0.1.9",
+        "date": "April 26, 2025",
+        "description": [
+            "Added a swapper list option",
+            "Combined Settings, Info, and Updates modals into one",
+            "Added userscripts loading management",
+            "Redesigned auto-updates of the client"
+        ]
+    },
+    {
         "version": "0.1.8",
         "date": "March 19, 2025",
         "description": [
