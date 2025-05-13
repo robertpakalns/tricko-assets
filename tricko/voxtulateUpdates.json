@@ -1,5 +1,16 @@
 [
     {
+        "version": "0.2.0",
+        "date": "May 13, 2025",
+        "description": [
+            "Added check for window.renderSkin function",
+            "Fixed a bug with custom crosshair loading",
+            "Updated deeplinks",
+            "Client will prevent opening multiple instances at the same time",
+            "Optimizations"
+        ]
+    },
+    {
         "version": "0.1.9",
         "date": "April 26, 2025",
         "description": [
