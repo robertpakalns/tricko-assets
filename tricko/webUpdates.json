@@ -82,7 +82,7 @@
         "version": "0.2.0",
         "date": "September 3, 2024",
         "description": [
-            "Filters vor Voxiom.io market, Vectaria.io player and changelog pages were moved to sessionStorage",
+            "Filters for Voxiom.io market, Vectaria.io player and changelog pages were moved to sessionStorage",
             "Updated panel menu"
         ]
     },
