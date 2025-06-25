@@ -13,7 +13,6 @@ Collected assets for [Tricko.pro](https://tricko.pro), [Tricko Bot](https://disc
 * Currencies
 * Preview images
 * JSON files with data
-* JavaScript code ([Voxiom Database](https://docs.google.com/spreadsheets/d/1fYJzpqpyqqVorqgagCu2PQeE6t_Rp6nIYchPYYgg6es))
 * Tricko-themed rendered images
 * Tricko.pro backgrounds and Gravit Design assets
 
