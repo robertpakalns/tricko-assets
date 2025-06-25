@@ -1,5 +1,16 @@
 [
     {
+        "version": "0.2.1",
+        "date": "June 25, 2025",
+        "description": [
+            "Updated app icons",
+            "GitHub Actions will create more bundles for each Windows architecture",
+            "Fixed a bug when the content in the Changelog section dupes",
+            "If config.json or userscripts.json are corrupted, they will set to default without notification",
+            "Userscripts should be executed before DOM"
+        ]
+    },
+    {
         "version": "0.2.0",
         "date": "May 13, 2025",
         "description": [
