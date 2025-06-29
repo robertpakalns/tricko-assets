@@ -1,5 +1,5 @@
 # Tricko Assets
-Collected assets for [Tricko.pro](https://tricko.pro), [Tricko Bot](https://discord.com/oauth2/authorize?client_id=1182411176517324840).
+Collected assets for [Tricko.pro](https://tricko.pro), [Tricko Bot](https://discord.com/oauth2/authorize?client_id=1182411176517324840), [Voxtulate Client](https://github.com/robertpakalns/VoxtulateClient), [Redline Client](https://github.com/robertpakalns/redline-client).
 
 ### Games
 * [Cryzen.io](https://cryzen.io)
@@ -14,6 +14,6 @@ Collected assets for [Tricko.pro](https://tricko.pro), [Tricko Bot](https://disc
 * Preview images
 * JSON files with data
 * Tricko-themed rendered images
-* Tricko.pro backgrounds and Gravit Design assets
+* Tricko.pro backgrounds and assets
 
 by robertpakalns | [Community Server](https://discord.gg/yPjrUrvSzv) | Powered by Tricko
