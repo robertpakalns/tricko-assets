@@ -1,5 +1,24 @@
 [
     {
+        "version": "1.0.8",
+        "date": "June 29, 2025",
+        "description": [
+            "More binaries for macOS an Linux (x64 and arm64)",
+            "Slightly reduced size of each binary",
+            "Replaced window.console redefine with window.appconsole",
+            "Added popup messages when interacting with menu modal"
+        ]
+    },
+    {
+        "version": "1.0.7",
+        "date": "June 26, 2025",
+        "description": [
+            "If the config.json file is corrupted, it will set to default without notification",
+            "Added K/D ratio near kills and deaths in-game",
+            "Added an option to toggle 'Join Game' button in user Discord profile"
+        ]
+    },
+    {
         "version": "1.0.6",
         "date": "June 25, 2025",
         "description": [
