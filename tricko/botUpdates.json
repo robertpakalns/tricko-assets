@@ -1,5 +1,17 @@
 [
     {
+        "version": "0.1.5",
+        "date": "June 30, 2025",
+        "description": [
+            "Added Tricko API status and latency in ping command",
+            "Updated all button icons",
+            "Lists now look more like lists in all changelog slash commands",
+            "Updated info command",
+            "Added redline and redline-updates commands",
+            "If a user interacts with a message they did not trigger, an ephemeral message will be sent to them"
+        ]
+    },
+    {
         "version": "0.1.4",
         "date": "March 6, 2025",
         "description": [
