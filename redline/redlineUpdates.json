@@ -1,5 +1,14 @@
 [
     {
+        "version": "1.0.9",
+        "date": "July 3, 2025",
+        "description": [
+            "Optimizations",
+            "Fixed a bug when opening a modal in-game",
+            "Added fast URL option"
+        ]
+    },
+    {
         "version": "1.0.8",
         "date": "June 29, 2025",
         "description": [
