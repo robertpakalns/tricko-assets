@@ -1,4 +1,10 @@
 {
+    "v0.42.1 - July 3, 2025": [
+        "Massive code refactoring (please report issues)",
+        "Added Summer store",
+        "Fixed weapon speed issue in play mode in Map Editor",
+        "Removed death ad"
+    ],
     "v0.42 - May 27, 2025": [
         "Added light blocks (alpha)",
         "Added bullet trails (alpha)",
