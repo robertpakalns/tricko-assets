@@ -1,5 +1,18 @@
 [
     {
+        "version": "1.0.0",
+        "date": "July 6, 2025",
+        "description": [
+            "Fully redesigned the website (supports mobile screens)",
+            "Added a Redline Client page with links to GitHub, fast download client links, and changelog",
+            "Added fast download client and wiki links for the Voxtulate Client",
+            "Integrated the trickojs NPM package helps to prevent invalid client-side requests and reactively display criteria",
+            "Introduced a new interactive background with falling stars",
+            "Removed background customization settings",
+            "Added more options for the 'Creation Time' formatting"
+        ]
+    },
+    {
         "version": "0.2.8",
         "date": "April 6, 2025",
         "description": [
