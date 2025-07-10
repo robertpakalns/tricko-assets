@@ -1,4 +1,15 @@
 {
+    "v0.42.2 - July 8, 2025": [
+        "Re-added slide-hop on all weapons",
+        "Removed Frontier experimental map",
+        "Removed Storage experimental map",
+        "Removed Lost experimental map",
+        "Removed Bulwark experimental map",
+        "Re-added Loading scene",
+        "Re-added end game loop",
+        "Rendering is now smoother for 60 FPS and lower",
+        "Fixed a renderer issue"
+    ],
     "v0.42.1 - July 3, 2025": [
         "Massive code refactoring (please report issues)",
         "Added Summer store",
