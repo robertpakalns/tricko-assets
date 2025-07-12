@@ -1,5 +1,16 @@
 [
     {
+        "version": "1.1.1",
+        "date": "July 12, 2025",
+        "description": [
+            "Fixed the in-game bug with the console",
+            "Added an engine which stores user activity based on URL changes",
+            "Added first chart and labels to display user activity",
+            "Added Privacy Policy",
+            "Fixed the bug with wrong paths to client assets in the web render on macOS and Linux"
+        ]
+    },
+    {
         "version": "1.1.0",
         "date": "July 10, 2025",
         "description": [
