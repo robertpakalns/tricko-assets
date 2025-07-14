@@ -1,6 +1,6 @@
 [
     {
-        "version": 0.24,
+        "version": "0.24",
         "date": "December 26, 2024",
         "img": "interface/news/0.24.webp",
         "title": "UPDATE",
@@ -31,7 +31,7 @@
         ]
     },
     {
-        "version": 0.23,
+        "version": "0.23",
         "date": "July 10, 2024",
         "img": "interface/news/0.23.webp",
         "title": "UPDATE",
@@ -50,7 +50,7 @@
         "bottom": "New updates coming soon, join the game's Discord Server to keep up to date with the game!"
     },
     {
-        "version": 0.22,
+        "version": "0.22",
         "date": "June 29, 2024",
         "img": "interface/news/0.22.webp",
         "title": "UPDATE",
@@ -63,7 +63,7 @@
         ]
     },
     {
-        "version": 0.21,
+        "version": "0.21",
         "date": "April 18, 2024",
         "img": "interface/news/0.20.webp",
         "title": "UPDATE",
@@ -79,14 +79,14 @@
         ]
     },
     {
-        "version": 0.19,
+        "version": "0.19",
         "date": "April 2, 2024",
         "img": "interface/news/0.19.webp",
         "title": "UPDATE",
         "desc": "A new update related to Match History. Now you can view more information about each match!"
     },
     {
-        "version": 0.18,
+        "version": "0.18",
         "date": "March 26, 2024",
         "img": "interface/news/0.18.webp",
         "title": "UPDATE",
@@ -114,7 +114,7 @@
         "bottom": "These are not all the changes that have been made. Some details have been omitted. Lobby is also currently in Phase 1/2, there will be another update that will improve Lobby and finalize it. Have a great game everyone!"
     },
     {
-        "version": 0.17,
+        "version": "0.17",
         "date": "January 20, 2024",
         "img": "interface/news/0.17.webp",
         "title": "UPDATE",
@@ -146,7 +146,7 @@
         ]
     },
     {
-        "version": 0.16,
+        "version": "0.16",
         "date": "January 12, 2024",
         "img": "interface/news/0.16.webp",
         "title": "UPDATE",
@@ -174,7 +174,7 @@
         ]
     },
     {
-        "version": 0.15,
+        "version": "0.15",
         "date": "January 12, 2024",
         "img": "interface/news/0.15.webp",
         "title": "UPDATE",
@@ -195,7 +195,7 @@
         ]
     },
     {
-        "version": 0.14,
+        "version": "0.14",
         "date": "January 12, 2024",
         "img": "interface/news/0.14.webp",
         "title": "UPDATE",
@@ -207,7 +207,7 @@
         ]
     },
     {
-        "version": 0.13,
+        "version": "0.13",
         "date": "January 12, 2024",
         "img": "interface/news/0.13.webp",
         "title": "UPDATE",
@@ -215,7 +215,7 @@
         "list": []
     },
     {
-        "version": 0.12,
+        "version": "0.12",
         "date": "January 11, 2024",
         "img": "interface/news/0.12.webp",
         "title": "UPDATE",
@@ -237,7 +237,7 @@
         ]
     },
     {
-        "version": 0.11,
+        "version": "0.11",
         "date": "January 10, 2024",
         "img": "interface/news/0.10.webp",
         "title": "UPDATE",
@@ -255,7 +255,7 @@
         ]
     },
     {
-        "version": 0.9,
+        "version": "0.9",
         "date": "January 8, 2024",
         "img": "interface/news/0.8.webp",
         "title": "UPDATE",
@@ -271,7 +271,7 @@
         ]
     },
     {
-        "version": 0.7,
+        "version": "0.7",
         "date": "December 25, 2023",
         "img": "interface/news/0.7.webp",
         "title": "UPDATE",
@@ -284,7 +284,7 @@
         ]
     },
     {
-        "version": 0.6,
+        "version": "0.6",
         "date": "December 20, 2023",
         "img": "interface/news/0.6.webp",
         "title": "UPDATE",
@@ -295,7 +295,7 @@
         ]
     },
     {
-        "version": 0.5,
+        "version": "0.5",
         "date": "December 16, 2023",
         "img": "interface/news/0.5.webp",
         "title": "UPDATE",
@@ -314,7 +314,7 @@
         ]
     },
     {
-        "version": 0.4,
+        "version": "0.4",
         "date": "November 9, 2023",
         "img": "interface/news/0.4.webp",
         "title": "UPDATE",
@@ -336,7 +336,7 @@
         ]
     },
     {
-        "version": 0.3,
+        "version": "0.3",
         "date": "November 4, 2023",
         "title": "PATCH NOTE #2",
         "desc": "Some changes since the last update.",
@@ -348,7 +348,7 @@
         ]
     },
     {
-        "version": 0.2,
+        "version": "0.2",
         "date": "November 4, 2023",
         "title": "PATCH NOTE",
         "desc": "Some changes since the last update.",
@@ -362,7 +362,7 @@
         ]
     },
     {
-        "version": 0.1,
+        "version": "0.1",
         "date": "November 2, 2023.",
         "img": "interface/news/0.1.webp",
         "title": "UPDATE",
