@@ -1,5 +1,13 @@
 [
     {
+        "version": "1.1.2",
+        "date": "July 14, 2025",
+        "description": [
+            "Added more charts and data in the Analytics section",
+            "Added a button to update charts in the Analytics section"
+        ]
+    },
+    {
         "version": "1.1.1",
         "date": "July 12, 2025",
         "description": [
