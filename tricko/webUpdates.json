@@ -1,251 +1,247 @@
 [
-    {
-        "version": "1.0.0",
-        "date": "July 6, 2025",
-        "description": [
-            "Fully redesigned the website (supports mobile screens)",
-            "Added a Redline Client page with links to GitHub, fast download client links, and changelog",
-            "Added fast download client and wiki links for the Voxtulate Client",
-            "Integrated the trickojs NPM package helps to prevent invalid client-side requests and reactively display criteria",
-            "Introduced a new interactive background with falling stars",
-            "Removed background customization settings",
-            "Added more options for the 'Creation Time' formatting"
-        ]
-    },
-    {
-        "version": "0.2.8",
-        "date": "April 6, 2025",
-        "description": [
-            "Updated Voxiom.io player page",
-            "Updated Voxiom.io Battle Royale match page",
-            "Added descriptions for designations on hover",
-            "Added differences between consecutive cells in tables"
-        ]
-    },
-    {
-        "version": "0.2.7",
-        "date": "April 5, 2025",
-        "description": [
-            "Fixed styles in charts",
-            "Removed Back button from side panel",
-            "Updated Cryzen.io player page",
-            "Fixed styles on small screens"
-        ]
-    },
-    {
-        "version": "0.2.6",
-        "date": "March 22, 2025",
-        "description": [
-            "Migrated assets to GitHub",
-            "Updated Cryzen.io player page",
-            "Updated Cryzen.io leaderboard page",
-            "Added GitHub links into About page",
-            "Added navigational panel on the right side of changelogs"
-        ]
-    },
-    {
-        "version": "0.2.5",
-        "date": "February 28, 2025",
-        "description": [
-            "Added Kirka.io Market page",
-            "Updated Kirka.io player page",
-            "Updated icons"
-        ]
-    },
-    {
-        "version": "0.2.4",
-        "date": "January 21, 2025",
-        "description": [
-            "Updated styles for Android & iOS support",
-            "Removed Terms and Privacy links from panel menu",
-            "Replaced Discord server links next to names"
-        ]
-    },
-    {
-        "version": "0.2.3",
-        "date": "December 21, 2024",
-        "description": [
-            "Started version counting",
-            "Updated styles",
-            "Updated home and About pages",
-            "Added Tricko.pro, Tricko Bot, and Voxtulate changelogs",
-            "Updated Cryzen.io, Kirka.io, and Voxiom.io changelogs",
-            "Static assets were moved to sessionStorage"
-        ]
-    },
-    {
-        "version": "0.2.2",
-        "date": "November 29, 2024",
-        "description": [
-            "Added Voxtulate page",
-            "Added Export Skins button for Vectaria.io player inventories"
-        ]
-    },
-    {
-        "version": "0.2.1",
-        "date": "November 3, 2024",
-        "description": [
-            "Updated panel menu",
-            "Updated Vectaria.io server page",
-            "Added possibility to copy text from some blocks",
-            "Added modal windows"
-        ]
-    },
-    {
-        "version": "0.2.0",
-        "date": "September 3, 2024",
-        "description": [
-            "Filters for Voxiom.io market, Vectaria.io player and changelog pages were moved to sessionStorage",
-            "Updated panel menu"
-        ]
-    },
-    {
-        "version": "0.1.9",
-        "date": "August 25, 2024",
-        "description": [
-            "Added Kirka.io changelog",
-            "Updated Voxiom.io leaderboard page"
-        ]
-    },
-    {
-        "version": "0.1.8",
-        "date": "August 24, 2024",
-        "description": [
-            "Added Kirka.io player page",
-            "Added Kirka.io clan page",
-            "Added Kirka.io leaderboard pages"
-        ]
-    },
-    {
-        "version": "0.1.7",
-        "date": "August 21, 2024",
-        "description": [
-            "Updated Voxiom.io match pages"
-        ]
-    },
-    {
-        "version": "0.1.6",
-        "date": "August 20, 2024",
-        "description": [
-            "Added Last Matches section in Cryzen.io player page"
-        ]
-    },
-    {
-        "version": "0.1.5",
-        "date": "August 19, 2024",
-        "description": [
-            "Updated Voxiom.io clan page",
-            "Added Inventory section in Cryzen.io player page",
-            "Added KDR and KPG calculators"
-        ]
-    },
-    {
-        "version": "0.1.4",
-        "date": "August 18, 2024",
-        "description": [
-            "Added Back button in panel",
-            "Updated chart design"
-        ]
-    },
-    {
-        "version": "0.1.3",
-        "date": "August 16, 2024",
-        "description": [
-            "More optimizations",
-            "Updated Cryzen.io leaderboard menu page",
-            "Updated Cryzen.io and Voxiom.io leaderboard pages",
-            "Updated Cryzen.io player page",
-            "Added Voxiom.io and Cryzen.io changelogs",
-            "Updated chart design"
-        ]
-    },
-    {
-        "version": "0.1.2",
-        "date": "August 11, 2024",
-        "description": [
-            "Updated and optimized assets",
-            "Added charts for Voxiom.io skin page"
-        ]
-    },
-    {
-        "version": "0.1.1",
-        "date": "July 30, 2024",
-        "description": [
-            "Added filters for Vectaria.io player page",
-            "Updated Home page"
-        ]
-    },
-    {
-        "version": "0.1.0",
-        "date": "July 17, 2024",
-        "description": [
-            "Added Terms of Service and Privacy Policy pages"
-        ]
-    },
-    {
-        "version": "0.0.9",
-        "date": "July 9, 2024",
-        "description": [
-            "Added Open Graph support for website links"
-        ]
-    },
-    {
-        "version": "0.0.8",
-        "date": "June 14, 2024",
-        "description": [
-            "Added error handling page",
-            "Added first prototype for Voxiom.io skins section"
-        ]
-    },
-    {
-        "version": "0.0.7",
-        "date": "April 22, 2024",
-        "description": [
-            "Added an option for a custom background by URL",
-            "Added Clear Settings button"
-        ]
-    },
-    {
-        "version": "0.0.6",
-        "date": "April 17, 2024",
-        "description": [
-            "Added About page",
-            "Added first prototype for Voxiom.io clan search"
-        ]
-    },
-    {
-        "version": "0.0.5",
-        "date": "January 23, 2024",
-        "description": [
-            "Added first prototype for Cryzen.io leaderboard search"
-        ]
-    },
-    {
-        "version": "0.0.4",
-        "date": "January 10, 2024",
-        "description": [
-            "Added background customization options (blur and grayscale)"
-        ]
-    },
-    {
-        "version": "0.0.3",
-        "date": "November 24, 2023",
-        "description": [
-            "Added first prototype for Voxiom.io match (CTG and BR) search"
-        ]
-    },
-    {
-        "version": "0.0.2",
-        "date": "October 22, 2023",
-        "description": [
-            "Added first prototype for Voxiom.io player search"
-        ]
-    },
-    {
-        "version": "0.0.1",
-        "date": "July 16, 2023",
-        "description": [
-            "Added first prototype for Cryzen.io player search"
-        ]
-    }
+  {
+    "version": "1.0.1",
+    "date": "August 19, 2025",
+    "description": [
+      "Added redirect links to Discord servers and GitHub repositories",
+      "Added Games Lost and W/L values to Cryzen.io, Kirka.io, and Voxiom.io player pages",
+      "Added an option to choose time format",
+      "Added options for number formatting",
+      "Added an option to add a custom thousand separator in numbers",
+      "Added a Redline Client linked badge near a Kirka.io player name",
+      "Minor UX changes"
+    ]
+  },
+  {
+    "version": "1.0.0",
+    "date": "July 6, 2025",
+    "description": [
+      "Fully redesigned the website (supports mobile screens)",
+      "Added a Redline Client page with links to GitHub, fast download client links, and changelog",
+      "Added fast download client and wiki links for the Voxtulate Client",
+      "Integrated the trickojs NPM package helps to prevent invalid client-side requests and reactively display criteria",
+      "Introduced a new interactive background with falling stars",
+      "Removed background customization settings",
+      "Added more options for the 'Creation Time' formatting"
+    ]
+  },
+  {
+    "version": "0.2.8",
+    "date": "April 6, 2025",
+    "description": [
+      "Updated Voxiom.io player page",
+      "Updated Voxiom.io Battle Royale match page",
+      "Added descriptions for designations on hover",
+      "Added differences between consecutive cells in tables"
+    ]
+  },
+  {
+    "version": "0.2.7",
+    "date": "April 5, 2025",
+    "description": [
+      "Fixed styles in charts",
+      "Removed Back button from side panel",
+      "Updated Cryzen.io player page",
+      "Fixed styles on small screens"
+    ]
+  },
+  {
+    "version": "0.2.6",
+    "date": "March 22, 2025",
+    "description": [
+      "Migrated assets to GitHub",
+      "Updated Cryzen.io player page",
+      "Updated Cryzen.io leaderboard page",
+      "Added GitHub links into About page",
+      "Added navigational panel on the right side of changelogs"
+    ]
+  },
+  {
+    "version": "0.2.5",
+    "date": "February 28, 2025",
+    "description": [
+      "Added Kirka.io Market page",
+      "Updated Kirka.io player page",
+      "Updated icons"
+    ]
+  },
+  {
+    "version": "0.2.4",
+    "date": "January 21, 2025",
+    "description": [
+      "Updated styles for Android & iOS support",
+      "Removed Terms and Privacy links from panel menu",
+      "Replaced Discord server links next to names"
+    ]
+  },
+  {
+    "version": "0.2.3",
+    "date": "December 21, 2024",
+    "description": [
+      "Started version counting",
+      "Updated styles",
+      "Updated home and About pages",
+      "Added Tricko.pro, Tricko Bot, and Voxtulate changelogs",
+      "Updated Cryzen.io, Kirka.io, and Voxiom.io changelogs",
+      "Static assets were moved to sessionStorage"
+    ]
+  },
+  {
+    "version": "0.2.2",
+    "date": "November 29, 2024",
+    "description": [
+      "Added Voxtulate page",
+      "Added Export Skins button for Vectaria.io player inventories"
+    ]
+  },
+  {
+    "version": "0.2.1",
+    "date": "November 3, 2024",
+    "description": [
+      "Updated panel menu",
+      "Updated Vectaria.io server page",
+      "Added possibility to copy text from some blocks",
+      "Added modal windows"
+    ]
+  },
+  {
+    "version": "0.2.0",
+    "date": "September 3, 2024",
+    "description": [
+      "Filters for Voxiom.io market, Vectaria.io player and changelog pages were moved to sessionStorage",
+      "Updated panel menu"
+    ]
+  },
+  {
+    "version": "0.1.9",
+    "date": "August 25, 2024",
+    "description": [
+      "Added Kirka.io changelog",
+      "Updated Voxiom.io leaderboard page"
+    ]
+  },
+  {
+    "version": "0.1.8",
+    "date": "August 24, 2024",
+    "description": [
+      "Added Kirka.io player page",
+      "Added Kirka.io clan page",
+      "Added Kirka.io leaderboard pages"
+    ]
+  },
+  {
+    "version": "0.1.7",
+    "date": "August 21, 2024",
+    "description": ["Updated Voxiom.io match pages"]
+  },
+  {
+    "version": "0.1.6",
+    "date": "August 20, 2024",
+    "description": ["Added Last Matches section in Cryzen.io player page"]
+  },
+  {
+    "version": "0.1.5",
+    "date": "August 19, 2024",
+    "description": [
+      "Updated Voxiom.io clan page",
+      "Added Inventory section in Cryzen.io player page",
+      "Added KDR and KPG calculators"
+    ]
+  },
+  {
+    "version": "0.1.4",
+    "date": "August 18, 2024",
+    "description": ["Added Back button in panel", "Updated chart design"]
+  },
+  {
+    "version": "0.1.3",
+    "date": "August 16, 2024",
+    "description": [
+      "More optimizations",
+      "Updated Cryzen.io leaderboard menu page",
+      "Updated Cryzen.io and Voxiom.io leaderboard pages",
+      "Updated Cryzen.io player page",
+      "Added Voxiom.io and Cryzen.io changelogs",
+      "Updated chart design"
+    ]
+  },
+  {
+    "version": "0.1.2",
+    "date": "August 11, 2024",
+    "description": [
+      "Updated and optimized assets",
+      "Added charts for Voxiom.io skin page"
+    ]
+  },
+  {
+    "version": "0.1.1",
+    "date": "July 30, 2024",
+    "description": [
+      "Added filters for Vectaria.io player page",
+      "Updated Home page"
+    ]
+  },
+  {
+    "version": "0.1.0",
+    "date": "July 17, 2024",
+    "description": ["Added Terms of Service and Privacy Policy pages"]
+  },
+  {
+    "version": "0.0.9",
+    "date": "July 9, 2024",
+    "description": ["Added Open Graph support for website links"]
+  },
+  {
+    "version": "0.0.8",
+    "date": "June 14, 2024",
+    "description": [
+      "Added error handling page",
+      "Added first prototype for Voxiom.io skins section"
+    ]
+  },
+  {
+    "version": "0.0.7",
+    "date": "April 22, 2024",
+    "description": [
+      "Added an option for a custom background by URL",
+      "Added Clear Settings button"
+    ]
+  },
+  {
+    "version": "0.0.6",
+    "date": "April 17, 2024",
+    "description": [
+      "Added About page",
+      "Added first prototype for Voxiom.io clan search"
+    ]
+  },
+  {
+    "version": "0.0.5",
+    "date": "January 23, 2024",
+    "description": ["Added first prototype for Cryzen.io leaderboard search"]
+  },
+  {
+    "version": "0.0.4",
+    "date": "January 10, 2024",
+    "description": [
+      "Added background customization options (blur and grayscale)"
+    ]
+  },
+  {
+    "version": "0.0.3",
+    "date": "November 24, 2023",
+    "description": [
+      "Added first prototype for Voxiom.io match (CTG and BR) search"
+    ]
+  },
+  {
+    "version": "0.0.2",
+    "date": "October 22, 2023",
+    "description": ["Added first prototype for Voxiom.io player search"]
+  },
+  {
+    "version": "0.0.1",
+    "date": "July 16, 2023",
+    "description": ["Added first prototype for Cryzen.io player search"]
+  }
 ]
