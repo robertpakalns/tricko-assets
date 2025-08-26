@@ -1,383 +1,402 @@
 [
-    {
-        "version": "0.24",
-        "date": "December 26, 2024",
-        "img": "interface/news/0.24.webp",
-        "title": "UPDATE",
-        "desc": "Big Update!",
-        "list": [
-            "New 8 sprays",
-            "New map 'Spaceship'",
-            "New weapons Crossbow and VSS Vintorez that you can get for free. Also now you have access to 6 and 8 loadout",
-            "Added butterfly knife as a weapon from banners",
-            "Fixed a bug when Sakura skins were not displayed in general skins",
-            "Techno Raid (AA-12)",
-            "Red Viper (M14)",
-            "Space Conflict (MAC-10)",
-            "Molten Metal (MG34)",
-            "Golden (Desert Eagle)",
-            "Outside Observer (SCAR)",
-            "Jurassic (AA-12)",
-            "Phantom Wolves (M4A1)",
-            "Big Caramel (MG34)",
-            "Caramel (MPX)",
-            "Ghost (SCAR)",
-            "Water Splash (M4A1)",
-            "Fragments (M14)",
-            "Confetti (MAC-10)",
-            "Oxyd Rain (Desert Eagle)",
-            "Drago Scales (SCAR)",
-            "Sand Conflict (SCAR)"
-        ]
-    },
-    {
-        "version": "0.23",
-        "date": "July 10, 2024",
-        "img": "interface/news/0.23.webp",
-        "title": "UPDATE",
-        "desc": "Introducing a new weapon!",
-        "list": [
-            "Adding a new SCAR weapon that you can get in the 6th Loadout slot",
-            "There are now 6 Loadouts slots in the game, which will give more variety in matches",
-            "MP5 is now given out in the new slot for free for ad",
-            "Now you won't connect to a match with less than a minute left in the match",
-            "A match ends if there is less than a minute left and there is only 1 player in the room",
-            "Dozens of new Sprays have been added, which you can find in the Inventory section",
-            "The Poki version has redesigned the store, adding a Sprays section",
-            "In the Poki version, Death Screen now has an offer to purchase a free skin on a character",
-            "You can now see what skins are in the skin chests using the \"see all skins\" button next to the \"OPEN\" button"
-        ],
-        "bottom": "New updates coming soon, join the game's Discord Server to keep up to date with the game!"
-    },
-    {
-        "version": "0.22",
-        "date": "June 29, 2024",
-        "img": "interface/news/0.22.webp",
-        "title": "UPDATE",
-        "desc": "New update!",
-        "list": [
-            "Added ADS on weapons. This will change gameplay for many players and improve the variety of Cryzen.io",
-            "ADS reduces side-step velocity, improves recoil and spread by 20%",
-            "There is a new ADS-related button on mobile devices",
-            "There is a new checkbox in the game settings that gives you the option to choose how to enter ADS (press or push)"
-        ]
-    },
-    {
-        "version": "0.21",
-        "date": "April 18, 2024",
-        "img": "interface/news/0.20.webp",
-        "title": "UPDATE",
-        "desc": "A new global update called 'Gold Rush'!",
-        "list": [
-            "STORE is completely redesigned",
-            "Character skins have appeared in the game! You can find them in the updated Store for purchase",
-            "The game also introduced 2 chests for opening skins on weapons you have in your inventory",
-            "Fixed bugs related to loadouts. If you are still getting bugs, write to us!",
-            "The ability to put graffiti on walls has appeared, but at the moment there is no other graffiti besides the default one. Wait for the next updates.",
-            "Limited Skins has been renamed the Dark Shop. The Dark Shop now updates not every 8h, but 24h and it costs 20 diamits to update, and the section is only accessible via ads",
-            "The classic banner now requires only 50 opens to guarantee"
-        ]
-    },
-    {
-        "version": "0.19",
-        "date": "April 2, 2024",
-        "img": "interface/news/0.19.webp",
-        "title": "UPDATE",
-        "desc": "A new update related to Match History. Now you can view more information about each match!"
-    },
-    {
-        "version": "0.18",
-        "date": "March 26, 2024",
-        "img": "interface/news/0.18.webp",
-        "title": "UPDATE",
-        "desc": "Cryzen.io global update called 'New Era'! A lot of new content has been added:",
-        "list": [
-            "Match History, Phase 1/2 has been added. You can find the Match History in the Player Profile. An update will be released soon that will improve the Match History.",
-            "Guest mode has been removed. Now every player will be automatically registered. You can also authorize through services, for this you need to go to the profile and click 'LOG IN'",
-            "The Jail map has been changed. Now it is smaller, so finding enemies will be easier",
-            "Daily rewards now do not have a 2x multiplier for advertising. You can now take daily quests for advertising only.",
-            "MG34: changed ammo magazine from 100 to 60. And spare cartridges from 300 to 180",
-            "Added player death animation",
-            "Added a new INVENTORY section that adds new interaction with your arsenal of weapons",
-            "The Weapons and Storage pages have been removed",
-            "You can now select the Mode of the game, which is located near the PLAY button",
-            "Added Lobby. You can now invite players to play together! To connect to the lobby, all you need to do is get a link to the lobby or login with your ID",
-            "When pressing the \"PLAY\" button, the player now enters fullscreen.",
-            "Added a setting that disables entering fullscreen when \"PLAY\" is pressed",
-            "Scene changes now occur when clicking on some UI tabs",
-            "Loadouts have been added. You can now collect weapon sets that allow you to change weapons within the game. There are 4 of them in total. You can get the 4th slot for advertising",
-            "New weapon added: HK MG5 machine gun",
-            "The HK MG5 can be obtained simply by viewing a single advertisement inside the \"loadouts\" page, or by selecting a loadout in-game",
-            "Added a new banner to the store that adds a new weapon, the MPX Copperhead submachine gun",
-            "Also added a new banner with the Deagle pistol to the store"
-        ],
-        "bottom": "These are not all the changes that have been made. Some details have been omitted. Lobby is also currently in Phase 1/2, there will be another update that will improve Lobby and finalize it. Have a great game everyone!"
-    },
-    {
-        "version": "0.17",
-        "date": "January 20, 2024",
-        "img": "interface/news/0.17.webp",
-        "title": "UPDATE",
-        "desc": "New update!",
-        "list": [
-            "You can now multiply your post-match reward by 2x. This can be done 3 times per day  ",
-            "Death / Kill Bar has changed to a more minimalistic side. Also fixed an issue where deaths were leaving the death list too quickly",
-            "Now your TOP will also be listed in the nickname above your character, previously TOP was only listed in chat.",
-            "The game now shows the version of the game inside the news about the update",
-            "The layer associated with showing the update at the start of launch now shows the game logo and the \"PRE ALPHA\" status",
-            "Now if you switch to another tab in your browser, the Cryzen.io sounds will be disabled ",
-            "There appears to be red highlighting of players that have just spawned, this shows spawn protection (This was previously added, but no mention in the updates)",
-            "Daily Rewards are now based on UTC time and will update at a specific time, not like now where you took the last reward and 24h should pass",
-            "A bug related to Daily Rewards and incorrect display of the \"Gradient\" skin reward has been fixed",
-            "Now at the start of a round, if you press Q, you will get a secondary weapon slot. Previously, nothing changed when you pressed it, nothing happened",
-            "AKM Magazine 180 -> 90",
-            "M4A1 Magazine 150 -> 100",
-            "MG34 Magazine 285 -> 300, cartridge clip 95 -> 100",
-            "AA12  Magazine 50 -> 60",
-            "KRISS Vector Magazine 210 -> 175",
-            "MP5  Magazine 210 -> 150",
-            "M14 fire rate 140 -> 170",
-            "M9 first attack distance 1.4 -> 1.6",
-            "Tomahawk first attack distance 1.5 -> 1.7",
-            "Added the ability to shoot with a new button on the left. This will improve the game experience on mobile",
-            "Fixed a bug where it was hard for you to select SELL or SELECT weapon on mobile",
-            "Fixed a bug where \"Preview Update\" layout is shown higher in layer than Flip Device & Fullscreen Device on mobile",
-            "Viewing weapons inside a match is now also available on mobile"
-        ]
-    },
-    {
-        "version": "0.16",
-        "date": "January 12, 2024",
-        "img": "interface/news/0.16.webp",
-        "title": "UPDATE",
-        "desc": "New Update! Increase the range of skins. As skins have become more available due to the new system of issuing, we have prepared additionally new skins. New skins:",
-        "list": [
-            "Legendary Crystal (MP5)",
-            "Legendary Dionaea (MP5)",
-            "Epic Aztec (AWM)",
-            "Epic Lizard (Mossberg)",
-            "Epic Coldblood (MP5)",
-            "Rare Holi (MP5)",
-            "Rare Impression (MP5)",
-            "Rare Zombie (MP5)",
-            "Rare Bloody Artifice (Mossberg)",
-            "Rare Individuality (Mossberg)",
-            "Rare Stealth (Mossberg)",
-            "Common Burn (AKM)",
-            "Common Cave (MP5)",
-            "Common Hyperthermia (MP5)",
-            "Common Granite (Mossberg)",
-            "Common Neon Matrix (Mossberg)",
-            "Common Predator (Mossberg)",
-            "Common Chameleon (AWM)",
-            "Common Grayness (AWM)"
-        ]
-    },
-    {
-        "version": "0.15",
-        "date": "January 12, 2024",
-        "img": "interface/news/0.15.webp",
-        "title": "UPDATE",
-        "desc": "New update! This update will fix some important bugs and improve the experience with getting skins. Now it's much easier!",
-        "list": [
-            "The first card now shows an always random Common rarity skin",
-            "The second card now shows an always random Rare rarity skin.",
-            "The third card now shows Epic with 66.5% chance and legendary 33.5% chance skin.",
-            "Your Offers will update to new ones after time has passed (or use diamits)",
-            "Fixed an important bug. You now only spawn when you enter when the map loading screen disappears.",
-            "Added selling skins inside the \"Weapon View\" page",
-            "Cryzen developers now have a label in chat \"DEV\"",
-            "Removed button with plus icon near diamit balance. The button was useless and was removed because of that",
-            "Fixed a bug where you were not getting 5 credits for achievements (why didn't anyone mention this?).",
-            "The bug where you couldn't kill a player (damage wouldn't go through) should be fixed. If this is happening to you again, please write to us!",
-            "Skins are now stackable. You can have more than one skin. Because of this, you can see the number of skins you have",
-            "In Daily Rewards you can get a skin that you already have."
-        ]
-    },
-    {
-        "version": "0.14",
-        "date": "January 12, 2024",
-        "img": "interface/news/0.14.webp",
-        "title": "UPDATE",
-        "desc": "New update. Again! We've added Daily Rewards. You can now get rewards every day. Some clarification on the skins:",
-        "list": [
-            "For the second day you can get with a 66% chance of common and 34% chance of rare skins",
-            "For the fourth day you can get with a 66% chance of rare and 34% chance of epic skins",
-            "For the seventh day you can get with a 80% chance of epic and 20% chance of legendary skins"
-        ]
-    },
-    {
-        "version": "0.13",
-        "date": "January 12, 2024",
-        "img": "interface/news/0.13.webp",
-        "title": "UPDATE",
-        "desc": "Added new ranks that moved past ranks further down the level system. Also added two new colors for ranks and two titles (Lieutenant and Sergeant)",
-        "list": []
-    },
-    {
-        "version": "0.12",
-        "date": "January 11, 2024",
-        "img": "interface/news/0.12.webp",
-        "title": "UPDATE",
-        "desc": "This update will add new skins! You'll be able to find them in the Limited Offers. You can take a closer look in the game itself in the 'Weapon Preview' section.",
-        "list": [
-            "FBI (MP5)",
-            "Element (AWM)",
-            "Sandy Web (Mossberg)",
-            "Candy (MP5)",
-            "Lava (MP5)",
-            "Undersea (MP5)",
-            "Tiger (AWM)",
-            "Leo (Mossberg)",
-            "Snowstorm (MP5)",
-            "Snakeskin (AKM)",
-            "MG34 damage 16 -> 17",
-            "AA12 damage 22 -> 23",
-            "MAC-10 damage 16 -> 17"
-        ]
-    },
-    {
-        "version": "0.11",
-        "date": "January 10, 2024",
-        "img": "interface/news/0.10.webp",
-        "title": "UPDATE",
-        "desc": "Added customization of the sight! At the moment I'm continuing to improve customization, so your settings may come off again after you've customized. Also, please note that customization is currently only possible in the lobby.",
-        "list": [
-            "Added sight settings",
-            "The M14 and AWM no longer have dual zooms. Sniper rifles are much more enjoyable to play on now",
-            "Added \"In-game time\" field",
-            "Added \"Created at\" field",
-            "Added \"headshots\" field",
-            "Added a section with ratings. It shows the top 4 positions you hold in Leaderboard.",
-            "Removed references to weapon modules",
-            "Removed references to weapon levels",
-            "Removed references to weapon Stars"
-        ]
-    },
-    {
-        "version": "0.9",
-        "date": "January 8, 2024",
-        "img": "interface/news/0.8.webp",
-        "title": "UPDATE",
-        "desc": "New weapon update! We've added as many as 5 weapons to deepen the gameplay of the game.",
-        "list": [
-            "AA-12 weapon added (automatic shotgun)",
-            "M14 weapon added (semi-automatic sniper rifle)",
-            "MAC-10 weapon added (submachine gun machine gun in the second weapon slot)",
-            "MG34 weapon added (machine gun)",
-            "M4A1 (Assault rifle)",
-            "Each banner now shows a percentage chance of that particular prize from the banner",
-            "Added a banner from which you can get these guns"
-        ]
-    },
-    {
-        "version": "0.7",
-        "date": "December 25, 2023",
-        "img": "interface/news/0.7.webp",
-        "title": "UPDATE",
-        "desc": "Merry Christmas, everyone! We have a new update related to the LEADERBOARD section in the Center tab! You can now get Credits for leaderboard  Scores > Today, as well as watch other leaderboard options to know where you stand amongst everyone.",
-        "list": [
-            "Added Leaderboard. Leaderboard includes 4 categories that are divided by time. There are 10 leaderboards in total!",
-            "Added the achievement 500 kills with the M9 Bayonet",
-            "Fixed a bug where a players rank was incorrectly displayed in the match start screen",
-            "Deathmatch changed the number of kills before the end of the match from 50 to 70"
-        ]
-    },
-    {
-        "version": "0.6",
-        "date": "December 20, 2023",
-        "img": "interface/news/0.6.webp",
-        "title": "UPDATE",
-        "desc": "New update 'WINTER FACTORY'. We are experimenting and that's why we added a mini map where you can play Team Deathmatch 4 vs 4 on the new map FACTORY!",
-        "list": [
-            "New FACTORY map added",
-            "The game loads much faster now. Optimization of game resources has been performed"
-        ]
-    },
-    {
-        "version": "0.5",
-        "date": "December 16, 2023",
-        "img": "interface/news/0.5.webp",
-        "title": "UPDATE",
-        "desc": "Hi everyone, we've made a new update which is mostly about fixing and improving some things.",
-        "list": [
-            "Changed mouse sensitivity on mobile devices",
-            "Fixed a bug where you couldn't open the Escape interface on mobile",
-            "In TDM now in chat your name will be the color of your team",
-            "Added newbie packs that give better prices on your first currency purchase in the store",
-            "Now the game does not revive you automatically. You need to click on Death Screen ",
-            "Fixed bug on mobile when chat was closing stats",
-            "JAIL has been changed. Its center section has become more variable",
-            "Character skins have been optimized to make the game load faster ",
-            " The dark shadows between the character's legs, which seemed unnatural, have been corrected",
-            "Added 'privacy policy'"
-        ]
-    },
-    {
-        "version": "0.4",
-        "date": "November 9, 2023",
-        "img": "interface/news/0.4.webp",
-        "title": "UPDATE",
-        "desc": "This update is timed to improve the TDM experience! It's not the most important update, but it will improve the player experience.",
-        "list": [
-            "Added skins for different teams (blue skin, red skin). This will improve the experience of team battles",
-            "Added shadows on characters, now they look more voluminous",
-            "Changed TDM maps - now flags are hanging.",
-            "Hangar is now brighter",
-            "Added fall damage",
-            "the CENTER section of the home screen appears",
-            "The VIDEOS section has appeared. In this section our team will post videos of normal quality. Just plain video captures of gameplay without an idea will not be accepted. To add new videos, write @Admin in Discord Server. We look forward to seeing your videos! I've added some videos as a test.",
-            "The \"NEWS\" section has been added",
-            "Each new update will now appear when you log into the game once to notify all users of the updates. ",
-            "In CENTER you will be able to find 3 new sections one of which is under \"COMING SOON\" and that is Leaderboard.",
-            "Fixed a bug when a player is killed by Spawn, but his body does not disappear for a few seconds",
-            "Added \"Tragic Legacy\" achievement",
-            "Added  \"Modern Reality\" achievement"
-        ]
-    },
-    {
-        "version": "0.3",
-        "date": "November 4, 2023",
-        "title": "PATCH NOTE #2",
-        "desc": "Some changes since the last update.",
-        "list": [
-            "Added ability to enable latency display through settings",
-            "Fixed a bug where you couldn't shoot through the stairs on the JAIL map",
-            "Music in the lobby has been changed to more dynamic music",
-            "At the end of the match, the final sound is played"
-        ]
-    },
-    {
-        "version": "0.2",
-        "date": "November 4, 2023",
-        "title": "PATCH NOTE",
-        "desc": "Some changes since the last update.",
-        "list": [
-            "Added sound of accepting a Terra award after a match",
-            "Each achievement now shows progress to completion",
-            "Added ability to enable FPS indicator through settings",
-            "Fixed a bug where you couldn't start the 2nd match in guest mode",
-            "Fixed a bug where new stats related to knife and weapon were not counted",
-            "Fixed a bug on JAIL where you fell through a gap between a crate and a wall and couldn't get out."
-        ]
-    },
-    {
-        "version": "0.1",
-        "date": "November 2, 2023",
-        "img": "interface/news/0.1.webp",
-        "title": "UPDATE",
-        "desc": "Some changes since the last update.",
-        "list": [
-            "Added map JAIL in TDM mode",
-            "Added Hanami banner for 30 days. It contains 5 legendary skins. Hurry up to buy! Cost 1200 credits.",
-            "Added skins to the default knife, list: Flaming Blow, Lightning Storm, Secret Murder",
-            "Added skin for Mossberg Cybersport",
-            "Added death warning if you are too close to another team's opponent's Spawn",
-            "Added a Q button that when pressed takes the last weapon. You can also change this letter in the settings",
-            "Rewritten the server. Which means that the player jerks that were there all along should be removed.",
-            "Fix when it didn't show the reward at the end of the match",
-            "Added different walking sounds for all maps. This will change the quality of sounds in the game!",
-            "Added achievements: 'Kill 1000 players with a knife', 'Achievement JAIL'"
-        ]
-    }
+  {
+    "version": "0.3",
+    "date": "August 27, 2025",
+    "img": "interface/news/0.3.webp",
+    "title": "TEMPLE BLADE UPDATE",
+    "desc": "Knife mode and new map!",
+    "list": [
+      "Added knife mode",
+      "Added new map \"Temple\"",
+      "Added opening X10 banners at once",
+      "Reworked respawn flow, now you not getting spawned right away and dying",
+      "Rebalance weapons",
+      "Fixed ladders, now you can move down on them",
+      "New fall damage logic",
+      "Improved footsteps sounds",
+      "Added left hand view",
+      "Fixed a lot of minor bugs"
+    ]
+  },
+  {
+    "version": "0.24",
+    "date": "December 26, 2024",
+    "img": "interface/news/0.24.webp",
+    "title": "UPDATE",
+    "desc": "Big Update!",
+    "list": [
+      "New 8 sprays",
+      "New map 'Spaceship'",
+      "New weapons Crossbow and VSS Vintorez that you can get for free. Also now you have access to 6 and 8 loadout",
+      "Added butterfly knife as a weapon from banners",
+      "Fixed a bug when Sakura skins were not displayed in general skins",
+      "Techno Raid (AA-12)",
+      "Red Viper (M14)",
+      "Space Conflict (MAC-10)",
+      "Molten Metal (MG34)",
+      "Golden (Desert Eagle)",
+      "Outside Observer (SCAR)",
+      "Jurassic (AA-12)",
+      "Phantom Wolves (M4A1)",
+      "Big Caramel (MG34)",
+      "Caramel (MPX)",
+      "Ghost (SCAR)",
+      "Water Splash (M4A1)",
+      "Fragments (M14)",
+      "Confetti (MAC-10)",
+      "Oxyd Rain (Desert Eagle)",
+      "Drago Scales (SCAR)",
+      "Sand Conflict (SCAR)"
+    ]
+  },
+  {
+    "version": "0.23",
+    "date": "July 10, 2024",
+    "img": "interface/news/0.23.webp",
+    "title": "UPDATE",
+    "desc": "Introducing a new weapon!",
+    "list": [
+      "Adding a new SCAR weapon that you can get in the 6th Loadout slot",
+      "There are now 6 Loadouts slots in the game, which will give more variety in matches",
+      "MP5 is now given out in the new slot for free for ad",
+      "Now you won't connect to a match with less than a minute left in the match",
+      "A match ends if there is less than a minute left and there is only 1 player in the room",
+      "Dozens of new Sprays have been added, which you can find in the Inventory section",
+      "The Poki version has redesigned the store, adding a Sprays section",
+      "In the Poki version, Death Screen now has an offer to purchase a free skin on a character",
+      "You can now see what skins are in the skin chests using the \"see all skins\" button next to the \"OPEN\" button"
+    ],
+    "bottom": "New updates coming soon, join the game's Discord Server to keep up to date with the game!"
+  },
+  {
+    "version": "0.22",
+    "date": "June 29, 2024",
+    "img": "interface/news/0.22.webp",
+    "title": "UPDATE",
+    "desc": "New update!",
+    "list": [
+      "Added ADS on weapons. This will change gameplay for many players and improve the variety of Cryzen.io",
+      "ADS reduces side-step velocity, improves recoil and spread by 20%",
+      "There is a new ADS-related button on mobile devices",
+      "There is a new checkbox in the game settings that gives you the option to choose how to enter ADS (press or push)"
+    ]
+  },
+  {
+    "version": "0.21",
+    "date": "April 18, 2024",
+    "img": "interface/news/0.20.webp",
+    "title": "UPDATE",
+    "desc": "A new global update called 'Gold Rush'!",
+    "list": [
+      "STORE is completely redesigned",
+      "Character skins have appeared in the game! You can find them in the updated Store for purchase",
+      "The game also introduced 2 chests for opening skins on weapons you have in your inventory",
+      "Fixed bugs related to loadouts. If you are still getting bugs, write to us!",
+      "The ability to put graffiti on walls has appeared, but at the moment there is no other graffiti besides the default one. Wait for the next updates.",
+      "Limited Skins has been renamed the Dark Shop. The Dark Shop now updates not every 8h, but 24h and it costs 20 diamits to update, and the section is only accessible via ads",
+      "The classic banner now requires only 50 opens to guarantee"
+    ]
+  },
+  {
+    "version": "0.19",
+    "date": "April 2, 2024",
+    "img": "interface/news/0.19.webp",
+    "title": "UPDATE",
+    "desc": "A new update related to Match History. Now you can view more information about each match!"
+  },
+  {
+    "version": "0.18",
+    "date": "March 26, 2024",
+    "img": "interface/news/0.18.webp",
+    "title": "UPDATE",
+    "desc": "Cryzen.io global update called 'New Era'! A lot of new content has been added:",
+    "list": [
+      "Match History, Phase 1/2 has been added. You can find the Match History in the Player Profile. An update will be released soon that will improve the Match History.",
+      "Guest mode has been removed. Now every player will be automatically registered. You can also authorize through services, for this you need to go to the profile and click 'LOG IN'",
+      "The Jail map has been changed. Now it is smaller, so finding enemies will be easier",
+      "Daily rewards now do not have a 2x multiplier for advertising. You can now take daily quests for advertising only.",
+      "MG34: changed ammo magazine from 100 to 60. And spare cartridges from 300 to 180",
+      "Added player death animation",
+      "Added a new INVENTORY section that adds new interaction with your arsenal of weapons",
+      "The Weapons and Storage pages have been removed",
+      "You can now select the Mode of the game, which is located near the PLAY button",
+      "Added Lobby. You can now invite players to play together! To connect to the lobby, all you need to do is get a link to the lobby or login with your ID",
+      "When pressing the \"PLAY\" button, the player now enters fullscreen.",
+      "Added a setting that disables entering fullscreen when \"PLAY\" is pressed",
+      "Scene changes now occur when clicking on some UI tabs",
+      "Loadouts have been added. You can now collect weapon sets that allow you to change weapons within the game. There are 4 of them in total. You can get the 4th slot for advertising",
+      "New weapon added: HK MG5 machine gun",
+      "The HK MG5 can be obtained simply by viewing a single advertisement inside the \"loadouts\" page, or by selecting a loadout in-game",
+      "Added a new banner to the store that adds a new weapon, the MPX Copperhead submachine gun",
+      "Also added a new banner with the Deagle pistol to the store"
+    ],
+    "bottom": "These are not all the changes that have been made. Some details have been omitted. Lobby is also currently in Phase 1/2, there will be another update that will improve Lobby and finalize it. Have a great game everyone!"
+  },
+  {
+    "version": "0.17",
+    "date": "January 20, 2024",
+    "img": "interface/news/0.17.webp",
+    "title": "UPDATE",
+    "desc": "New update!",
+    "list": [
+      "You can now multiply your post-match reward by 2x. This can be done 3 times per day  ",
+      "Death / Kill Bar has changed to a more minimalistic side. Also fixed an issue where deaths were leaving the death list too quickly",
+      "Now your TOP will also be listed in the nickname above your character, previously TOP was only listed in chat.",
+      "The game now shows the version of the game inside the news about the update",
+      "The layer associated with showing the update at the start of launch now shows the game logo and the \"PRE ALPHA\" status",
+      "Now if you switch to another tab in your browser, the Cryzen.io sounds will be disabled ",
+      "There appears to be red highlighting of players that have just spawned, this shows spawn protection (This was previously added, but no mention in the updates)",
+      "Daily Rewards are now based on UTC time and will update at a specific time, not like now where you took the last reward and 24h should pass",
+      "A bug related to Daily Rewards and incorrect display of the \"Gradient\" skin reward has been fixed",
+      "Now at the start of a round, if you press Q, you will get a secondary weapon slot. Previously, nothing changed when you pressed it, nothing happened",
+      "AKM Magazine 180 -> 90",
+      "M4A1 Magazine 150 -> 100",
+      "MG34 Magazine 285 -> 300, cartridge clip 95 -> 100",
+      "AA12  Magazine 50 -> 60",
+      "KRISS Vector Magazine 210 -> 175",
+      "MP5  Magazine 210 -> 150",
+      "M14 fire rate 140 -> 170",
+      "M9 first attack distance 1.4 -> 1.6",
+      "Tomahawk first attack distance 1.5 -> 1.7",
+      "Added the ability to shoot with a new button on the left. This will improve the game experience on mobile",
+      "Fixed a bug where it was hard for you to select SELL or SELECT weapon on mobile",
+      "Fixed a bug where \"Preview Update\" layout is shown higher in layer than Flip Device & Fullscreen Device on mobile",
+      "Viewing weapons inside a match is now also available on mobile"
+    ]
+  },
+  {
+    "version": "0.16",
+    "date": "January 12, 2024",
+    "img": "interface/news/0.16.webp",
+    "title": "UPDATE",
+    "desc": "New Update! Increase the range of skins. As skins have become more available due to the new system of issuing, we have prepared additionally new skins. New skins:",
+    "list": [
+      "Legendary Crystal (MP5)",
+      "Legendary Dionaea (MP5)",
+      "Epic Aztec (AWM)",
+      "Epic Lizard (Mossberg)",
+      "Epic Coldblood (MP5)",
+      "Rare Holi (MP5)",
+      "Rare Impression (MP5)",
+      "Rare Zombie (MP5)",
+      "Rare Bloody Artifice (Mossberg)",
+      "Rare Individuality (Mossberg)",
+      "Rare Stealth (Mossberg)",
+      "Common Burn (AKM)",
+      "Common Cave (MP5)",
+      "Common Hyperthermia (MP5)",
+      "Common Granite (Mossberg)",
+      "Common Neon Matrix (Mossberg)",
+      "Common Predator (Mossberg)",
+      "Common Chameleon (AWM)",
+      "Common Grayness (AWM)"
+    ]
+  },
+  {
+    "version": "0.15",
+    "date": "January 12, 2024",
+    "img": "interface/news/0.15.webp",
+    "title": "UPDATE",
+    "desc": "New update! This update will fix some important bugs and improve the experience with getting skins. Now it's much easier!",
+    "list": [
+      "The first card now shows an always random Common rarity skin",
+      "The second card now shows an always random Rare rarity skin.",
+      "The third card now shows Epic with 66.5% chance and legendary 33.5% chance skin.",
+      "Your Offers will update to new ones after time has passed (or use diamits)",
+      "Fixed an important bug. You now only spawn when you enter when the map loading screen disappears.",
+      "Added selling skins inside the \"Weapon View\" page",
+      "Cryzen developers now have a label in chat \"DEV\"",
+      "Removed button with plus icon near diamit balance. The button was useless and was removed because of that",
+      "Fixed a bug where you were not getting 5 credits for achievements (why didn't anyone mention this?).",
+      "The bug where you couldn't kill a player (damage wouldn't go through) should be fixed. If this is happening to you again, please write to us!",
+      "Skins are now stackable. You can have more than one skin. Because of this, you can see the number of skins you have",
+      "In Daily Rewards you can get a skin that you already have."
+    ]
+  },
+  {
+    "version": "0.14",
+    "date": "January 12, 2024",
+    "img": "interface/news/0.14.webp",
+    "title": "UPDATE",
+    "desc": "New update. Again! We've added Daily Rewards. You can now get rewards every day. Some clarification on the skins:",
+    "list": [
+      "For the second day you can get with a 66% chance of common and 34% chance of rare skins",
+      "For the fourth day you can get with a 66% chance of rare and 34% chance of epic skins",
+      "For the seventh day you can get with a 80% chance of epic and 20% chance of legendary skins"
+    ]
+  },
+  {
+    "version": "0.13",
+    "date": "January 12, 2024",
+    "img": "interface/news/0.13.webp",
+    "title": "UPDATE",
+    "desc": "Added new ranks that moved past ranks further down the level system. Also added two new colors for ranks and two titles (Lieutenant and Sergeant)",
+    "list": []
+  },
+  {
+    "version": "0.12",
+    "date": "January 11, 2024",
+    "img": "interface/news/0.12.webp",
+    "title": "UPDATE",
+    "desc": "This update will add new skins! You'll be able to find them in the Limited Offers. You can take a closer look in the game itself in the 'Weapon Preview' section.",
+    "list": [
+      "FBI (MP5)",
+      "Element (AWM)",
+      "Sandy Web (Mossberg)",
+      "Candy (MP5)",
+      "Lava (MP5)",
+      "Undersea (MP5)",
+      "Tiger (AWM)",
+      "Leo (Mossberg)",
+      "Snowstorm (MP5)",
+      "Snakeskin (AKM)",
+      "MG34 damage 16 -> 17",
+      "AA12 damage 22 -> 23",
+      "MAC-10 damage 16 -> 17"
+    ]
+  },
+  {
+    "version": "0.11",
+    "date": "January 10, 2024",
+    "img": "interface/news/0.10.webp",
+    "title": "UPDATE",
+    "desc": "Added customization of the sight! At the moment I'm continuing to improve customization, so your settings may come off again after you've customized. Also, please note that customization is currently only possible in the lobby.",
+    "list": [
+      "Added sight settings",
+      "The M14 and AWM no longer have dual zooms. Sniper rifles are much more enjoyable to play on now",
+      "Added \"In-game time\" field",
+      "Added \"Created at\" field",
+      "Added \"headshots\" field",
+      "Added a section with ratings. It shows the top 4 positions you hold in Leaderboard.",
+      "Removed references to weapon modules",
+      "Removed references to weapon levels",
+      "Removed references to weapon Stars"
+    ]
+  },
+  {
+    "version": "0.9",
+    "date": "January 8, 2024",
+    "img": "interface/news/0.8.webp",
+    "title": "UPDATE",
+    "desc": "New weapon update! We've added as many as 5 weapons to deepen the gameplay of the game.",
+    "list": [
+      "AA-12 weapon added (automatic shotgun)",
+      "M14 weapon added (semi-automatic sniper rifle)",
+      "MAC-10 weapon added (submachine gun machine gun in the second weapon slot)",
+      "MG34 weapon added (machine gun)",
+      "M4A1 (Assault rifle)",
+      "Each banner now shows a percentage chance of that particular prize from the banner",
+      "Added a banner from which you can get these guns"
+    ]
+  },
+  {
+    "version": "0.7",
+    "date": "December 25, 2023",
+    "img": "interface/news/0.7.webp",
+    "title": "UPDATE",
+    "desc": "Merry Christmas, everyone! We have a new update related to the LEADERBOARD section in the Center tab! You can now get Credits for leaderboard  Scores > Today, as well as watch other leaderboard options to know where you stand amongst everyone.",
+    "list": [
+      "Added Leaderboard. Leaderboard includes 4 categories that are divided by time. There are 10 leaderboards in total!",
+      "Added the achievement 500 kills with the M9 Bayonet",
+      "Fixed a bug where a players rank was incorrectly displayed in the match start screen",
+      "Deathmatch changed the number of kills before the end of the match from 50 to 70"
+    ]
+  },
+  {
+    "version": "0.6",
+    "date": "December 20, 2023",
+    "img": "interface/news/0.6.webp",
+    "title": "UPDATE",
+    "desc": "New update 'WINTER FACTORY'. We are experimenting and that's why we added a mini map where you can play Team Deathmatch 4 vs 4 on the new map FACTORY!",
+    "list": [
+      "New FACTORY map added",
+      "The game loads much faster now. Optimization of game resources has been performed"
+    ]
+  },
+  {
+    "version": "0.5",
+    "date": "December 16, 2023",
+    "img": "interface/news/0.5.webp",
+    "title": "UPDATE",
+    "desc": "Hi everyone, we've made a new update which is mostly about fixing and improving some things.",
+    "list": [
+      "Changed mouse sensitivity on mobile devices",
+      "Fixed a bug where you couldn't open the Escape interface on mobile",
+      "In TDM now in chat your name will be the color of your team",
+      "Added newbie packs that give better prices on your first currency purchase in the store",
+      "Now the game does not revive you automatically. You need to click on Death Screen ",
+      "Fixed bug on mobile when chat was closing stats",
+      "JAIL has been changed. Its center section has become more variable",
+      "Character skins have been optimized to make the game load faster ",
+      " The dark shadows between the character's legs, which seemed unnatural, have been corrected",
+      "Added 'privacy policy'"
+    ]
+  },
+  {
+    "version": "0.4",
+    "date": "November 9, 2023",
+    "img": "interface/news/0.4.webp",
+    "title": "UPDATE",
+    "desc": "This update is timed to improve the TDM experience! It's not the most important update, but it will improve the player experience.",
+    "list": [
+      "Added skins for different teams (blue skin, red skin). This will improve the experience of team battles",
+      "Added shadows on characters, now they look more voluminous",
+      "Changed TDM maps - now flags are hanging.",
+      "Hangar is now brighter",
+      "Added fall damage",
+      "the CENTER section of the home screen appears",
+      "The VIDEOS section has appeared. In this section our team will post videos of normal quality. Just plain video captures of gameplay without an idea will not be accepted. To add new videos, write @Admin in Discord Server. We look forward to seeing your videos! I've added some videos as a test.",
+      "The \"NEWS\" section has been added",
+      "Each new update will now appear when you log into the game once to notify all users of the updates. ",
+      "In CENTER you will be able to find 3 new sections one of which is under \"COMING SOON\" and that is Leaderboard.",
+      "Fixed a bug when a player is killed by Spawn, but his body does not disappear for a few seconds",
+      "Added \"Tragic Legacy\" achievement",
+      "Added  \"Modern Reality\" achievement"
+    ]
+  },
+  {
+    "version": "0.3",
+    "date": "November 4, 2023",
+    "title": "PATCH NOTE #2",
+    "desc": "Some changes since the last update.",
+    "list": [
+      "Added ability to enable latency display through settings",
+      "Fixed a bug where you couldn't shoot through the stairs on the JAIL map",
+      "Music in the lobby has been changed to more dynamic music",
+      "At the end of the match, the final sound is played"
+    ]
+  },
+  {
+    "version": "0.2",
+    "date": "November 4, 2023",
+    "title": "PATCH NOTE",
+    "desc": "Some changes since the last update.",
+    "list": [
+      "Added sound of accepting a Terra award after a match",
+      "Each achievement now shows progress to completion",
+      "Added ability to enable FPS indicator through settings",
+      "Fixed a bug where you couldn't start the 2nd match in guest mode",
+      "Fixed a bug where new stats related to knife and weapon were not counted",
+      "Fixed a bug on JAIL where you fell through a gap between a crate and a wall and couldn't get out."
+    ]
+  },
+  {
+    "version": "0.1",
+    "date": "November 2, 2023",
+    "img": "interface/news/0.1.webp",
+    "title": "UPDATE",
+    "desc": "Some changes since the last update.",
+    "list": [
+      "Added map JAIL in TDM mode",
+      "Added Hanami banner for 30 days. It contains 5 legendary skins. Hurry up to buy! Cost 1200 credits.",
+      "Added skins to the default knife, list: Flaming Blow, Lightning Storm, Secret Murder",
+      "Added skin for Mossberg Cybersport",
+      "Added death warning if you are too close to another team's opponent's Spawn",
+      "Added a Q button that when pressed takes the last weapon. You can also change this letter in the settings",
+      "Rewritten the server. Which means that the player jerks that were there all along should be removed.",
+      "Fix when it didn't show the reward at the end of the match",
+      "Added different walking sounds for all maps. This will change the quality of sounds in the game!",
+      "Added achievements: 'Kill 1000 players with a knife', 'Achievement JAIL'"
+    ]
+  }
 ]
