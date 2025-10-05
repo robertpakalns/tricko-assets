@@ -1,5 +1,19 @@
 [
   {
+    "version": "0.4",
+    "date": "October 4, 2025",
+    "img": "interface/news/0.4.webp",
+    "title": "DRAGON UPDATE",
+    "desc": "October update with maps and new skins",
+    "list": [
+      "Added two new maps: KNIFE TDM 'Dragon Gate' and TDM 'Dragons Court'",
+      "Added new weapon skins and more rarities",
+      "Added to knife-only mode ability to select different knives",
+      "Enhanced lobby system with player kick, host controls, and closed lobby option. Mods are now saving.",
+      "Reworked inventory and loadouts system with improved weapon selection"
+    ]
+  },
+  {
     "version": "0.3",
     "date": "August 27, 2025",
     "img": "interface/news/0.3.webp",

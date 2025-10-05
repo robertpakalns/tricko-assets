@@ -1,5 +1,16 @@
 [
   {
+    "version": "1.2.0",
+    "date": "October 5, 2025",
+    "description": [
+      "Removed the possibility of XSS attacks via the Node.js API",
+      "Keybinds can now be changed without restarting the client",
+      "The FPS uncap will be set to false (for Windows) by default",
+      "Hovering over a badge displays additional information",
+      "Updating Discord RPC buttons no longer requires a client restart"
+    ]
+  },
+  {
     "version": "1.1.5",
     "date": "August 26, 2025",
     "description": [
