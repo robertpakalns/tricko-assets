@@ -1,5 +1,13 @@
 [
   {
+    "version": "2.0.1",
+    "date": "October 22, 2025",
+    "description": [
+      "Updated background",
+      "Fixed Export button in the Inventory Modal"
+    ]
+  },
+  {
     "version": "2.0.0",
     "date": "September 15, 2025",
     "description": [
