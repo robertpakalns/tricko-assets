@@ -1,3 +1,6 @@
+![](https://img.shields.io/github/last-commit/robertpakalns/tricko-assets)
+![](https://img.shields.io/github/repo-size/robertpakalns/tricko-assets)
+
 # Tricko Assets
 Collected assets for [Tricko.pro](https://tricko.pro), [Tricko Bot](https://discord.com/oauth2/authorize?client_id=1182411176517324840), [Voxtulate Client](https://github.com/robertpakalns/VoxtulateClient), [Redline Client](https://github.com/robertpakalns/redline-client).
 
