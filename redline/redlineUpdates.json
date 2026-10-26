@@ -1,5 +1,17 @@
 [
   {
+    "version": "1.3.0",
+    "date": "October 25, 2026",
+    "description": [
+      "Updated dependencies (Chromium 156 and Node.js 24.22.0)",
+      "Removed Windows ia32 target",
+      "Added Windows arm64 target",
+      "Removed the K/D counter",
+      "Replaced Chart.js rendering with manually drawn SVGs",
+      "Fixed an issue that prevented badges from appearing in the main menu"
+    ]
+  },
+  {
     "version": "1.2.0",
     "date": "October 5, 2025",
     "description": [
